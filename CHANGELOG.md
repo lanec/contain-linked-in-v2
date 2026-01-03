@@ -5,6 +5,13 @@ All notable changes to LinkedIn Container will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.0.1] - 2026-01-03
+
+### Changed
+- **Minimum Firefox version**: 140.0 (required for data_collection_permissions)
+- Added `data_collection_permissions` manifest key per Mozilla requirements (Nov 2025+)
+- Declares "none" for data collection (extension collects no user data)
+
 ## [1.0.0] - 2026-01-03
 
 ### Added

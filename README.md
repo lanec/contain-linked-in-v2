@@ -70,7 +70,7 @@ To learn more about how Multi-Account Containers work, see our support page at [
 ### Prerequisites
 - Node.js 16.14.1+ (see `package.json` volta config)
 - npm 8.5.0+
-- Firefox 67+
+- **Firefox 140+** (required for modern data consent features)
 
 ### Commands
 
