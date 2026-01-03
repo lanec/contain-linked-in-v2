@@ -16,9 +16,18 @@
 
     "applications": {
       "gecko": {
-        "id": "@contain-linkedin",
+        "id": "contain-linkedin@lanechr.com",
         "strict_min_version": "67.0"
       }
+    },
+
+    "developer": {
+      "name": "Lane Christiansen",
+      "url": "https://github.com/lanec/contain-linked-in-v2"
+    },
+
+    "data_collection_permissions": {
+      "privacy_policy_url": "https://github.com/lanec/contain-linked-in-v2/blob/master/README.md#privacy-features"
     },
 
     "homepage_url": "https://github.com/lanec/contain-linkedin",
