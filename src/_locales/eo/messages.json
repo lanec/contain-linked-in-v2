@@ -1,0 +1,83 @@
+{
+  "extensionDescription": {
+    "message": "LinkedIn Container izolas vian retumon en LinkedIn de via retumo en la cetero de la reto, por eviti ke LinkedIn spuru vin ekster sia retejo per spuriloj de aliaj.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "in-fbc-subhead": {
+    "message": "$URL$ estas en LinkedIn Container.",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.linkedin.com"
+      }
+    }
+  },
+  "in-fbc-p1": {
+    "message": "LinkedIn povas nun spuri vin en tiu ĉi retejo. Por forigi tiun ĉi retejon el la LinkedIn Container, elektu kaj forigu ĝin el Permesitaj retejoj."
+  },
+  "on-facebook-subhead": {
+    "message": "En LinkedIn kaj retejoj izolitaj en LinkedIn Container",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "on-facebook-p1": {
+    "message": "Tiu ĉi emblemo aperas en la adresa strio de Firefox kiam vi vizitas retejojn posedatajn de LinkedIn aŭ retejojn aldonitajn de vi en LinkedIn Container.",
+    "description": "This is shown in the body of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "on-facebook-p2": {
+    "message": "Tiuj ĉi retejoj bezonas aliri vian identecon de LinkedIn (aŭ scii kiu vi estas) por funkcii. Tio ankaŭ signifas ke LinkedIn povas spuri ĉion, kion vi faras en tiuj ĉi retejoj.",
+    "description": "This is shown in the body of the panel pop up when the user is on LinkedIn."
+  },
+  "facebookContainer": {
+    "message": "LinkedIn Container",
+    "description": "This is the name of the extension, and appears at the top of all onboarding panels. Please do not translate \"LinkedIn Container\"."
+  },
+  "onboarding1-subhead": {
+    "message": "Kiel uzi LinkedIn Container",
+    "description": "This is the subhead of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding4-subhead": {
+    "message": "Ekster LinkedIn",
+    "description": "This is the subhead for the fourth onboarding panel."
+  },
+  "btn-allow": {
+    "message": "Permesi",
+    "description": "This is a button to allows users to whitelist the domain, adding it to the LinkedIn container."
+  },
+  "btn-cancel": {
+    "message": "Nuligi",
+    "description": "This is a button to cancel out of the onboarding panel."
+  },
+  "btn-next": {
+    "message": "Antaŭen",
+    "description": "This is a button to continue to the next onboarding panel."
+  },
+  "btn-back": {
+    "message": "Malantaŭen",
+    "description": "This is a button that returns the user to the previous onboarding panel."
+  },
+  "btn-done": {
+    "message": "Farita",
+    "description": "This is a button the user clicks to close out the panel when they have finished reading the text."
+  },
+  "learn-more": {
+    "message": "Pli da informo",
+    "description": "This is a link that opens a page with more information about LinkedIn Container."
+  },
+  "no-sites-added": {
+    "message": "Neniu",
+    "description": "This message is shown beneath the 'SITES YOU’VE ALLOWED' list header when no sites have been added to the contaner."
+  },
+  "remove": {
+    "message": "Forigi",
+    "description": ""
+  },
+  "btn-relay-dismiss": {
+    "message": "Ignori",
+    "description": ""
+  },
+  "btn-relay-try": {
+    "message": "Provi Firefox Relay",
+    "description": ""
+  }
+}

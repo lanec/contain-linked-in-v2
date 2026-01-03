@@ -1,0 +1,268 @@
+{
+  "extensionDescription": {
+    "message": "O LinkedIn Container isola a sua atividade do LinkedIn do resto da sua atividade na Internet de modo a impedir que o LinkedIn o monitorize fora do site do LinkedIn através de cookies de terceiros.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "in-fbc-subhead": {
+    "message": "$URL$ está no LinkedIn Container.",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.linkedin.com"
+      }
+    }
+  },
+  "in-fbc-p1": {
+    "message": "O LinkedIn agora pode monitorizar-lhe neste site. Para remover este site do LinkedIn Container, selecione Sites permitidos no LinkedIn Container e remova-o da lista."
+  },
+  "on-facebook-subhead": {
+    "message": "No LinkedIn e sites na fronteira do LinkedIn Container",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "on-facebook-p1": {
+    "message": "Este ícone aparece na barra de endereço do Firefox quando visita sites pertencentes ao LinkedIn ou sites que adicionou ao LinkedIn Container.",
+    "description": "This is shown in the body of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "on-facebook-p2": {
+    "message": "Estes sites precisam de aceder à sua identidade do LinkedIn (ou saber quem é) de maneira a poderem trabalhar. Isto também significa que o LinkedIn pode monitorizar tudo o que faz nestes sites.",
+    "description": "This is shown in the body of the panel pop up when the user is on LinkedIn."
+  },
+  "notOnLinkedInHeader": {
+    "message": "$URL$ não está no LinkedIn Container.",
+    "description": "This is shown at the top of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.google.com"
+      }
+    }
+  },
+  "notOnLinkedInText": {
+    "message": "Este site está fora do LinkedIn Container. Isto torna mais difícil que o LinkedIn lhe monitorize pela web.",
+    "description": "This is shown in the body of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "onUnknownSiteHeader": {
+    "message": "Este site não está no LinkedIn Container.",
+    "description": "This is shown at the top of the panel pop-up when the user is on an \"unknown\" website - e.g., about:newtab. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "facebookContainer": {
+    "message": "LinkedIn Container",
+    "description": "This is the name of the extension, and appears at the top of all onboarding panels. Please do not translate \"LinkedIn Container\"."
+  },
+  "onboarding1-subhead": {
+    "message": "Utilizar o LinkedIn Container",
+    "description": "This is the subhead of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding1-p1": {
+    "message": "O LinkedIn pode monitorizar a sua navegação muito além de LinkedIn.com. Os botões Gostar e Partilhar do LinkedIn, por exemplo, podem monitorizar onde esteve — mesmo em páginas que nunca gosta ou partilha.",
+    "description": "This is the first paragraph of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding1-p2": {
+    "message": "O LinkedIn Container cria uma fronteira entre os sites do LinkedIn e o resto da web, por isso é mais difícil para o LinkedIn monitorizar-lhe online.",
+    "description": "Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding2-subhead": {
+    "message": "No LinkedIn e sites na fronteira do LinkedIn Container",
+    "description": "This is the subhead for the second onboarding panel. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding2-alt": {
+    "message": "O ícone de cerca do LinkedIn Container",
+    "description": "This is alternative text for the icon in the second onboarding panel"
+  },
+  "onboarding2-p1": {
+    "message": "Este ícone aparece na barra de endereço do Firefox quando visita sites, como LinkedIn.com, que estão na fronteira do LinkedIn Container.",
+    "description": "This is the first paragraph of the second onboarding panel."
+  },
+  "onboarding2-p2": {
+    "message": "Estes sites precisam de aceder à sua identidade do LinkedIn (ou saber quem é) de maneira a poderem trabalhar. Isto também significa que o LinkedIn pode monitorizar tudo o que faz nestes sites.",
+    "description": "This is the second paragraph of the second onboarding panel. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding4-subhead": {
+    "message": "Fora do LinkedIn",
+    "description": "This is the subhead for the fourth onboarding panel."
+  },
+  "onboarding4-p1": {
+    "message": "Mesmo quando não está no LinkedIn, o LinkedIn pode monitorizar o que faz na Internet. Os botões que permitem publicar coisas no LinkedIn ou iniciar sessão em sites utilizando a sua conta do LinkedIn contêm rastreadores. O contentor do LinkedIn irá bloquear estes rastreadores e irá apresentat o ícone da cerca para mostrar onde os rastreadores foram removidos.",
+    "description": "This is the first paragraph of the fourth onboarding panel."
+  },
+  "onboarding4-img": {
+    "message": "Esta imagem mostra como o ícone de cerca do LinkedIn Containers irá aparecer na página ao lado de um botão de Gosto do LinkedIn.",
+    "description": "This is alternative text for the image shown in the fourth onboarding panel."
+  },
+  "onboarding5-subhead": {
+    "message": "Iniciar sessão com o LinkedIn em outros sites",
+    "description": "This is the subhead for the fifth onboarding panel."
+  },
+  "onboarding5-p1": {
+    "message": "Para utilizar as suas credenciais do LinkedIn em outros sites, é necessário mover os mesmos para dentro do contentor. Clique no ícone da cerca e selecione ‘Permitir site no contentor do LinkedIn’ na parte inferior.",
+    "description": "This is the first paragraph of the fifth onboarding panel."
+  },
+  "onboarding5-img": {
+    "message": "Esta imagem mostra como o botão para adicionar um site ao contentor do LinkedIn irá aparecer no painel.",
+    "description": "This is alternative text for the image shown in the fifth onboarding panel."
+  },
+  "onboarding5-p2": {
+    "message": "Isto permite que inicie sessão com o LinkedIn, mas também permite que o LinkedIn rastreie sua atividade nesse site.",
+    "description": "This is the second paragraph on the fifth onboarding panel."
+  },
+  "btn-allow": {
+    "message": "Permitir",
+    "description": "This is a button to allows users to whitelist the domain, adding it to the LinkedIn container."
+  },
+  "btn-cancel": {
+    "message": "Cancelar",
+    "description": "This is a button to cancel out of the onboarding panel."
+  },
+  "btn-next": {
+    "message": "Seguinte",
+    "description": "This is a button to continue to the next onboarding panel."
+  },
+  "btn-back": {
+    "message": "Retroceder",
+    "description": "This is a button that returns the user to the previous onboarding panel."
+  },
+  "btn-done": {
+    "message": "Feito",
+    "description": "This is a button the user clicks to close out the panel when they have finished reading the text."
+  },
+  "btn-arrow-back": {
+    "message": "Retroceder para o painel anterior.",
+    "description": "This is alternative text for the back arrow button."
+  },
+  "btn-arrow-forward": {
+    "message": "Ir para Como funciona o LinkedIn Container",
+    "description": "This is alternative text for the arrow icon next to the \"How LinkedIn Container Works\" link"
+  },
+  "no-trackers-subhead": {
+    "message": "Nenhum tracker do LinkedIn detetado",
+    "description": ""
+  },
+  "no-trackers-p1": {
+    "message": "O LinkedIn Container não detetou nenhum tracker do LinkedIn nesta página. No entanto, a página ainda pode conter outros tipos de trackers.",
+    "description": ""
+  },
+  "learn-more": {
+    "message": "Saber mais",
+    "description": "This is a link that opens a page with more information about LinkedIn Container."
+  },
+  "how-fbc-works": {
+    "message": "Como funciona o LinkedIn Container",
+    "description": "This is a button that opens the LinkedIn Container onboarding flow."
+  },
+  "trackers-detected-subhead": {
+    "message": "Protegemos-lhe do LinkedIn.",
+    "description": "This is a subhead, and it means that the add on has protected the user by blocking LinkedIn trackers."
+  },
+  "trackers-detected-p1": {
+    "message": "Os botões do LinkedIn que aparecem em sites de compras, notícias e outros sites contêm trackers que informam o LinkedIn de onde esteve na web. Mesmo que nunca utilize estes botões para gostar ou partilhar, os trackers ainda irão poder recolher dados acerca da sua navegação. O LinkedIn Container bloqueia estes trackers.",
+    "description": ""
+  },
+  "trackers-detected-p2": {
+    "message": "O LinkedIn Container bloqueia estes trackers. No entanto, se clicar em qualquer um destes botões, o LinkedIn irá poder monitorizar-lhe.",
+    "description": ""
+  },
+  "trackers-detected-fence-alt": {
+    "message": "Cerca com escudo do LinkedIn Container.",
+    "description": "This is alternative text describing the container fence icon."
+  },
+  "sites-added-subhead": {
+    "message": "Sites permitidos no LinkedIn Container",
+    "description": "This is a panel subhead."
+  },
+  "sites-included": {
+    "message": "SITES INCLUÍDOS",
+    "description": "This is a header for the list of websites that are in the LinkedIn Container by default. Capitalized letters are preferred if that makes sense/is feasible for the language."
+  },
+  "no-sites-added": {
+    "message": "Nenhum",
+    "description": "This message is shown beneath the 'SITES YOU’VE ALLOWED' list header when no sites have been added to the contaner."
+  },
+  "sites-allowed": {
+    "message": "SITES QUE PERMITIU",
+    "description": "This is the header for the list of sites the user has manually added into the LinkedIn Container. Capitalized letters are preferred if that makes sense/is feasible for the lanaguage."
+  },
+  "sites-added-p1": {
+    "message": "O LinkedIn Container coloca sites pertencentes ao LinkedIn dentro da fronteira. Pode permitir que outros sites entrem na fronteira, mas isso irá permitir com que o LinkedIn monitorize mais a sua navegação web."
+  },
+  "remove": {
+    "message": "Remover",
+    "description": ""
+  },
+  "button-allow-site": {
+    "message": "Permitir site no contentor do LinkedIn",
+    "description": "Button text that allows sites to be added to the LinkedIn Container"
+  },
+  "button-remove-site": {
+    "message": "Remover site do contentor do LinkedIn",
+    "description": "Button text that removes an already-added site from the LinkedIn Container to the default container"
+  },
+  "button-remove-site-tooltip": {
+    "message": "Porque este site é propriedade do LinkedIn, o mesmo não pode ser removido do contentor do LinkedIn.",
+    "description": "Tooltip that is displayed when hovering over the remove site button"
+  },
+  "remove-site-subhead": {
+    "message": "Remover site do LinkedIn Container?",
+    "description": ""
+  },
+  "remove-site-p1": {
+    "message": "Remover este site do LinkedIn Container significa que a funcionalidade Iniciar sessão com o LinkedIn não irá funcionar mais e os cookies de monitorização do LinkedIn irão ser eliminados.",
+    "description": ""
+  },
+  "remove-site-p2": {
+    "message": " Se quiser utilizar Iniciar sessão com o LinkedIn novamente, irá precisar de adicioná-lo de volta ao LinkedIn Container.",
+    "description": ""
+  },
+  "add-site-subhead": {
+    "message": "Permitir a monitorização do LinkedIn neste site?",
+    "description": ""
+  },
+  "add-site-p1": {
+    "message": "Isto permite que inicie sessão com o LinkedIn, mas também permite que o LinkedIn monitorize o que faz neste site.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-share": {
+    "message": "O LinkedIn Container desativou este botão e bloqueou o LinkedIn de monitorizar a sua visita a esta página.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-login": {
+    "message": "O LinkedIn Container bloqueou trackers do LinkedIn. Se utiliza Iniciar sessão com o LinkedIn neste site, o LinkedIn irá poder monitorizar-lhe.",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-p1": {
+    "message": "Permitir que o LinkedIn lhe monitorize aqui?",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-p2": {
+    "message": "Se quiser utilizar Iniciar sessão com o LinkedIn então o LinkedIn irá poder monitorizar a sua atividade neste site. Isto pode ajudá-los a criar uma imagem mais completa da sua vida online.",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-checkbox": {
+    "message": "Não me mostrar isto novamente",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-share-passive": {
+    "message": "Se clicar neste botão, o LinkedIn poderá monitorizar a sua visita neste site.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-email": {
+    "message": "Se utilizar o seu endereço de e-mail real aqui, o LinkedIn poderá monitorizar o que faz. Clique para saber mais.",
+    "description": ""
+  },
+  "inPageUI-tooltip-email-prompt-p1": {
+    "message": "Permitir que o LinkedIn o monitorize aqui?",
+    "description": ""
+  },
+  "inPageUI-tooltip-email-prompt-p2": {
+    "message": "Este site pode partilhar o seu endereço de e-mail com o LinkedIn, o que permite que o LinkedIn o monitorize. Utilize um serviço como o Firefox Relay para ocultar o seu endereço de e-mail real.",
+    "description": ""
+  },
+  "btn-relay-dismiss": {
+    "message": "Ignorar",
+    "description": ""
+  },
+  "btn-relay-try": {
+    "message": "Experimentar o Firefox Relay",
+    "description": ""
+  }
+}

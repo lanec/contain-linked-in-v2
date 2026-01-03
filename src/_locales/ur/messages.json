@@ -1,0 +1,135 @@
+{
+  "extensionDescription": {
+    "message": "تیسری پارٹی کی کوکیز کے ذریعے فیس بک کو ویب سائٹ سے باہر آپ کو ٹریک کرنے سے روکنے کے لئے فیس بک کنٹینر آپ کی فیس بک کی سرگرمی کو آپ کی باقی ویب سرگرمی سے الگ کرتا ہے۔",
+    "description": "Description of the extension. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "in-fbc-subhead": {
+    "message": "$URL$ فیس بک کنٹینر میں ہے۔",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.linkedin.com"
+      }
+    }
+  },
+  "in-fbc-p1": {
+    "message": "فیس بک اب آپ کو اس سائٹ پر ٹریک کرسکتا ہے۔ اس سائٹ کو فیس بک کنٹینر سے ہٹانے کے لئے ، فیس بک کنٹینر میں اجازت شدہ سائٹیں منتخب کریں اور اسے فہرست سے ہٹائیں۔"
+  },
+  "onUnknownSiteHeader": {
+    "message": "یہ سائٹ LinkedIn کنٹینر میں نہیں ہے۔",
+    "description": "This is shown at the top of the panel pop-up when the user is on an \"unknown\" website - e.g., about:newtab. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "facebookContainer": {
+    "message": "LinkedIn Container",
+    "description": "This is the name of the extension, and appears at the top of all onboarding panels. Please do not translate \"LinkedIn Container\"."
+  },
+  "onboarding1-subhead": {
+    "message": "LinkedIn Container استعمال کر رہے ہیں",
+    "description": "This is the subhead of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding2-alt": {
+    "message": "LinkedIn کنٹینر باڑ کا آئکن",
+    "description": "This is alternative text for the icon in the second onboarding panel"
+  },
+  "onboarding4-subhead": {
+    "message": "LinkedIn کے باہر",
+    "description": "This is the subhead for the fourth onboarding panel."
+  },
+  "onboarding5-subhead": {
+    "message": "دوسری سائٹس  پر فیس بک کے ساتھ لاگ ان کرنا",
+    "description": "This is the subhead for the fifth onboarding panel."
+  },
+  "btn-allow": {
+    "message": "اجازت دیں",
+    "description": "This is a button to allows users to whitelist the domain, adding it to the LinkedIn container."
+  },
+  "btn-cancel": {
+    "message": "منسوخ کریں",
+    "description": "This is a button to cancel out of the onboarding panel."
+  },
+  "btn-next": {
+    "message": "آگے",
+    "description": "This is a button to continue to the next onboarding panel."
+  },
+  "btn-back": {
+    "message": "واپس",
+    "description": "This is a button that returns the user to the previous onboarding panel."
+  },
+  "btn-done": {
+    "message": "مکمل",
+    "description": "This is a button the user clicks to close out the panel when they have finished reading the text."
+  },
+  "btn-arrow-back": {
+    "message": "پچھلے پینل پر واپس جائیں۔",
+    "description": "This is alternative text for the back arrow button."
+  },
+  "btn-arrow-forward": {
+    "message": "LinkedIn Container کیسے کام کرتا ہے پر واپس جائیں ",
+    "description": "This is alternative text for the arrow icon next to the \"How LinkedIn Container Works\" link"
+  },
+  "no-trackers-subhead": {
+    "message": "کوئی LinkedIn ٹریکرز نہیں ملا",
+    "description": ""
+  },
+  "learn-more": {
+    "message": "مزید سیکھیں",
+    "description": "This is a link that opens a page with more information about LinkedIn Container."
+  },
+  "how-fbc-works": {
+    "message": "LinkedIn Container کے کام کرنے کا طریقا",
+    "description": "This is a button that opens the LinkedIn Container onboarding flow."
+  },
+  "trackers-detected-subhead": {
+    "message": "ہم نے آپ کو LinkedIn سے محفوظ رکھا ہے۔",
+    "description": "This is a subhead, and it means that the add on has protected the user by blocking LinkedIn trackers."
+  },
+  "sites-included": {
+    "message": "سائٹیں شامل ہیں",
+    "description": "This is a header for the list of websites that are in the LinkedIn Container by default. Capitalized letters are preferred if that makes sense/is feasible for the language."
+  },
+  "no-sites-added": {
+    "message": "کوئی نہیں",
+    "description": "This message is shown beneath the 'SITES YOU’VE ALLOWED' list header when no sites have been added to the contaner."
+  },
+  "remove": {
+    "message": "ہٹائیں",
+    "description": ""
+  },
+  "button-allow-site": {
+    "message": "LinkedIn Container میں سائٹ کو اجازت دیں",
+    "description": "Button text that allows sites to be added to the LinkedIn Container"
+  },
+  "button-remove-site": {
+    "message": "LinkedIn Container سے سائٹ کو ہٹا دیں",
+    "description": "Button text that removes an already-added site from the LinkedIn Container to the default container"
+  },
+  "remove-site-subhead": {
+    "message": "LinkedIn Container سے سائٹ کو ہٹا دیں؟",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-p1": {
+    "message": "LinkedIn کو یہاں آپ کو ٹریک کرنے کی اجازت دیں؟",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-checkbox": {
+    "message": "مجھے یہ دوبارہ نہ دکھائیں",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-share-passive": {
+    "message": "اگر آپ اس بٹن پر کلک کرتے ہیں تو ، LinkedIn اس سائٹ پر آپ کے دورے کا سراغ لگانے کے قابل ہوگا۔",
+    "description": ""
+  },
+  "inPageUI-tooltip-email-prompt-p1": {
+    "message": "LinkedIn کو یہاں آپ کو ٹریک کرنے کی اجازت دیں؟",
+    "description": ""
+  },
+  "btn-relay-dismiss": {
+    "message": "برخاست کریں",
+    "description": ""
+  },
+  "btn-relay-try": {
+    "message": " Firefox Relay آزمائیں۔",
+    "description": ""
+  }
+}

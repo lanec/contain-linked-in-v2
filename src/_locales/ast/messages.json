@@ -1,0 +1,101 @@
+{
+  "extensionDescription": {
+    "message": "LinkedIn Container aislla l'actividá de LinkedIn pa evitar que te rastrexe fuera del so sitiu pente cookies de terceros.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "in-fbc-subhead": {
+    "message": "$URL ta en LinkedIn Container.",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.linkedin.com"
+      }
+    }
+  },
+  "in-fbc-p1": {
+    "message": "Agora LinkedIn pue rastrexate nesti sitiu. Pa quitalu de LinkedIn Container, esbilla «Sitios permitíos» en LinkedIn Container y quítalu de la llista."
+  },
+  "on-facebook-p1": {
+    "message": "Esti iconu apaez na barra de direiciones de Firefox cuando visites sitios que pertenezan a LinkedIn o qu'amestares a LinkedIn Container.",
+    "description": "This is shown in the body of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "on-facebook-p2": {
+    "message": "Estos sitios precisen acceder a la to indentidá de LinkedIn (o saber quién yes) pa funcionar. Eso tamién significa que LinkedIn pue rastrexar tolo que faes nellos.",
+    "description": "This is shown in the body of the panel pop up when the user is on LinkedIn."
+  },
+  "notOnLinkedInHeader": {
+    "message": "$URL$ nun ta en LinkedIn Container.",
+    "description": "This is shown at the top of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.google.com"
+      }
+    }
+  },
+  "notOnLinkedInText": {
+    "message": "Esti sitiu ta fuera de LinkedIn Container. Esto dificulta a LinkedIn el rastrexate pente la rede.",
+    "description": "This is shown in the body of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "onUnknownSiteHeader": {
+    "message": "Esti sitiu nun ta en LinkedIn Container.",
+    "description": "This is shown at the top of the panel pop-up when the user is on an \"unknown\" website - e.g., about:newtab. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "facebookContainer": {
+    "message": "LinkedIn Container",
+    "description": "This is the name of the extension, and appears at the top of all onboarding panels. Please do not translate \"LinkedIn Container\"."
+  },
+  "onboarding1-p1": {
+    "message": "LinkedIn pue rastrexar el to restolar acullá de LinkedIn.com. Por exemplu, los botones Préstame o Compartir puen siguite hasta onde teas, tamién nos sitios nos que nun los usares.",
+    "description": "This is the first paragraph of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding1-p2": {
+    "message": "LinkedIn Container crea una llende ente los sitios de LinkedIn y el restu de la web pa que LinkedIn nun lo tenga fácil nel momentu de rastrexate en llinia.",
+    "description": "Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding2-p1": {
+    "message": "Esti iconu apaez na barra de direiciones de Firefox cuando visites sitios, como LinkedIn.com, que tean na llende de LinkedIn Container.",
+    "description": "This is the first paragraph of the second onboarding panel."
+  },
+  "onboarding2-p2": {
+    "message": "Estos sitios precisen acceder a la to indentidá de LinkedIn (o saber quién yes) pa funcionar. Eso tamién significa que LinkedIn pue rastrexar tolo que faes nellos.",
+    "description": "This is the second paragraph of the second onboarding panel. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding4-subhead": {
+    "message": "Fuera de LinkedIn",
+    "description": "This is the subhead for the fourth onboarding panel."
+  },
+  "onboarding4-p1": {
+    "message": "Magar que nun teas en LinkedIn, LinkedIn pue rastrexate en llinia. Los botones que te dexen espublizar coses en LinkedIn o aniciar sesión nos sitios web col usu d'una cuenta de LinkedIn contienen rastrexadores. LinkedIn Container va boquiar esos rastrexadores y amosar l'iconu de valla pa enseñate onde se quitaron rastrexadores.",
+    "description": "This is the first paragraph of the fourth onboarding panel."
+  },
+  "onboarding4-img": {
+    "message": "Esta imaxe demuestra cómo va apaecer l'iconu de valla de LinkedIn Container al llau d'un botón Préstame de LinkedIn.",
+    "description": "This is alternative text for the image shown in the fourth onboarding panel."
+  },
+  "btn-cancel": {
+    "message": "Encaboxar",
+    "description": "This is a button to cancel out of the onboarding panel."
+  },
+  "no-trackers-p1": {
+    "message": "LinkedIn Container nun deteutó nengún rastrexador de LinkedIn nesta páxina. Por embargu, la páxina pue contener otres tribes de rastrexadores.",
+    "description": ""
+  },
+  "how-fbc-works": {
+    "message": "Cómo funciona LinkedIn Container",
+    "description": "This is a button that opens the LinkedIn Container onboarding flow."
+  },
+  "trackers-detected-subhead": {
+    "message": "Protexímoste de LinkedIn.",
+    "description": "This is a subhead, and it means that the add on has protected the user by blocking LinkedIn trackers."
+  },
+  "trackers-detected-p1": {
+    "message": "Los botones de LinkedIn qu'apaecen nes tiendes, noticies y otros sitios contienen rastrexadores que-y dicen a LinkedIn en que parte de la web tuviesti. Magar qu'enxamás usares esos botones pa prestar o compartir, los rastrexadores entá puen recoyer datos tocante al to restolar. LinkedIn Container blóquialos.",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-p2": {
+    "message": "Si quies usar l'aniciu de sesión con LinkedIn, LinkedIn va ser a rastrexar la to actividá nesti sitiu. Esto pue ayudalos a crear un perfil completu de la to vida dixital.",
+    "description": ""
+  }
+}

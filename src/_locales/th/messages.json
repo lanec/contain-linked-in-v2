@@ -1,0 +1,268 @@
+{
+  "extensionDescription": {
+    "message": "LinkedIn Container แยกกิจกรรม LinkedIn ของคุณออกจากกิจกรรมเว็บที่เหลือ เพื่อป้องกันไม่ให้ LinkedIn ติดตามคุณนอกเว็บไซต์ LinkedIn ผ่านคุกกี้ของบุคคลที่สาม",
+    "description": "Description of the extension. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "in-fbc-subhead": {
+    "message": "$URL$ อยู่ใน LinkedIn Container",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.linkedin.com"
+      }
+    }
+  },
+  "in-fbc-p1": {
+    "message": "LinkedIn สามารถติดตามคุณบนไซต์นี้ได้ ถ้าต้องการเอาไซต์นี้ออกจาก LinkedIn Container ให้เลือก ไซต์ที่อนุญาต ใน LinkedIn Container แล้วเอาออกจากรายชื่อ"
+  },
+  "on-facebook-subhead": {
+    "message": "บน LinkedIn และไซต์ที่อยู่ในขอบเขตของ LinkedIn Container",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "on-facebook-p1": {
+    "message": "ไอคอนนี้จะปรากฏในแถบที่อยู่ของ Firefox เมื่อคุณเยี่ยมชมไซต์ที่ LinkedIn เป็นเจ้าของหรือไซต์ที่คุณเพิ่มลงใน LinkedIn Container",
+    "description": "This is shown in the body of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "on-facebook-p2": {
+    "message": "ไซต์เหล่านี้จำเป็นต้องเข้าถึงข้อมูลประจำตัว LinkedIn ของคุณ (หรือรู้ว่าคุณเป็นใคร) เพื่อให้ทำงานได้ ซึ่งหมายความว่า LinkedIn สามารถติดตามทุกสิ่งที่คุณทำบนไซต์เหล่านี้ได้ด้วย",
+    "description": "This is shown in the body of the panel pop up when the user is on LinkedIn."
+  },
+  "notOnLinkedInHeader": {
+    "message": "$URL$ ไม่ได้อยู่ใน LinkedIn Container",
+    "description": "This is shown at the top of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.google.com"
+      }
+    }
+  },
+  "notOnLinkedInText": {
+    "message": "ไซต์นี้อยู่ภายนอก LinkedIn Container ซึ่งทำให้ LinkedIn ติดตามคุณได้ยากขึ้น",
+    "description": "This is shown in the body of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "onUnknownSiteHeader": {
+    "message": "ไซต์นี้ไม่ได้อยู่ใน LinkedIn Container",
+    "description": "This is shown at the top of the panel pop-up when the user is on an \"unknown\" website - e.g., about:newtab. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "facebookContainer": {
+    "message": "LinkedIn Container",
+    "description": "This is the name of the extension, and appears at the top of all onboarding panels. Please do not translate \"LinkedIn Container\"."
+  },
+  "onboarding1-subhead": {
+    "message": "การใช้ LinkedIn Container",
+    "description": "This is the subhead of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding1-p1": {
+    "message": "LinkedIn สามารถติดตามการเรียกดูของคุณได้มากกว่า LinkedIn.com ปุ่มถูกใจและแชร์ของ LinkedIn สามารถติดตามสถานที่ที่คุณเคยไปแม้กระทั่งในหน้าที่คุณไม่เคยถูกใจหรือแชร์ได้",
+    "description": "This is the first paragraph of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding1-p2": {
+    "message": "LinkedIn Container จะสร้างขอบเขตระหว่างไซต์ LinkedIn กับเว็บอื่น ๆ ที่เหลือ จึงทำให้ LinkedIn ติดตามคุณบนโลกออนไลน์ได้ยากขึ้น",
+    "description": "Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding2-subhead": {
+    "message": "บน LinkedIn และไซต์ที่อยู่ในขอบเขตของ LinkedIn Container",
+    "description": "This is the subhead for the second onboarding panel. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding2-alt": {
+    "message": "ไอคอนรูปรั้วของ LinkedIn Container",
+    "description": "This is alternative text for the icon in the second onboarding panel"
+  },
+  "onboarding2-p1": {
+    "message": "ไอคอนนี้จะปรากฏในแถบที่อยู่ Firefox เมื่อคุณเยี่ยมชมไซต์ต่าง ๆ เช่น LinkedIn.com ที่อยู่ในขอบเขตของ LinkedIn Container",
+    "description": "This is the first paragraph of the second onboarding panel."
+  },
+  "onboarding2-p2": {
+    "message": "ไซต์เหล่านี้จำเป็นต้องเข้าถึงข้อมูลประจำตัว LinkedIn ของคุณ (หรือรู้ว่าคุณเป็นใคร) เพื่อให้ทำงานได้ ซึ่งหมายความว่า LinkedIn สามารถติดตามทุกสิ่งที่คุณทำบนไซต์เหล่านี้ได้ด้วย",
+    "description": "This is the second paragraph of the second onboarding panel. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding4-subhead": {
+    "message": "ภายนอก LinkedIn",
+    "description": "This is the subhead for the fourth onboarding panel."
+  },
+  "onboarding4-p1": {
+    "message": "ถึงแม้ว่าคุณจะไม่ได้ใช้ LinkedIn แต่ LinkedIn ก็สามารถติดตามคุณบนโลกออนไลน์ได้ ปุ่มที่ให้คุณโพสต์สิ่งต่าง ๆ ลงใน LinkedIn หรือเข้าสู่ระบบเว็บไซต์โดยใช้บัญชี LinkedIn ของคุณจะมีตัวติดตาม LinkedIn Container จะปิดกั้นตัวติดตามเหล่านี้และแสดงไอคอนรั้วเพื่อแสดงให้คุณเห็นว่าตัวติดตามถูกเอาออกที่จุดใดบ้าง",
+    "description": "This is the first paragraph of the fourth onboarding panel."
+  },
+  "onboarding4-img": {
+    "message": "ภาพนี้จะแสดงให้เห็นว่าไอคอนรั้วของ LinkedIn Container จะปรากฏในหน้าเคียงข้างปุ่มถูกใจของ LinkedIn อย่างไร",
+    "description": "This is alternative text for the image shown in the fourth onboarding panel."
+  },
+  "onboarding5-subhead": {
+    "message": "การเข้าสู่ระบบด้วย LinkedIn บนไซต์อื่น",
+    "description": "This is the subhead for the fifth onboarding panel."
+  },
+  "onboarding5-p1": {
+    "message": "ถ้าต้องการใช้ข้อมูลการเข้าสู่ระบบ LinkedIn ของคุณบนไซต์อื่น คุณจะต้องย้ายข้อมูลเหล่านั้นมาไว้ภายในขอบเขต คลิกไอคอนรั้วแล้วเลือก ‘อนุญาตไซต์ใน LinkedIn Container’ ที่อยู่ด้านล่าง",
+    "description": "This is the first paragraph of the fifth onboarding panel."
+  },
+  "onboarding5-img": {
+    "message": "ภาพนี้แสดงให้เห็นว่าปุ่มที่จะเพิ่มไซต์ลงใน LinkedIn Container จะปรากฏในแผงอย่างไร",
+    "description": "This is alternative text for the image shown in the fifth onboarding panel."
+  },
+  "onboarding5-p2": {
+    "message": "คุณลักษณะนี้ช่วยให้คุณสามารถเข้าสู่ระบบด้วย LinkedIn ได้ แต่จะอนุญาตให้ LinkedIn ติดตามกิจกรรมของคุณบนไซต์นั้นได้",
+    "description": "This is the second paragraph on the fifth onboarding panel."
+  },
+  "btn-allow": {
+    "message": "อนุญาต",
+    "description": "This is a button to allows users to whitelist the domain, adding it to the LinkedIn container."
+  },
+  "btn-cancel": {
+    "message": "ยกเลิก",
+    "description": "This is a button to cancel out of the onboarding panel."
+  },
+  "btn-next": {
+    "message": "ถัดไป",
+    "description": "This is a button to continue to the next onboarding panel."
+  },
+  "btn-back": {
+    "message": "ย้อนกลับ",
+    "description": "This is a button that returns the user to the previous onboarding panel."
+  },
+  "btn-done": {
+    "message": "เสร็จสิ้น",
+    "description": "This is a button the user clicks to close out the panel when they have finished reading the text."
+  },
+  "btn-arrow-back": {
+    "message": "ย้อนกลับไปที่แผงก่อนหน้า",
+    "description": "This is alternative text for the back arrow button."
+  },
+  "btn-arrow-forward": {
+    "message": "ไปที่ LinkedIn Container ทำงานอย่างไร",
+    "description": "This is alternative text for the arrow icon next to the \"How LinkedIn Container Works\" link"
+  },
+  "no-trackers-subhead": {
+    "message": "ไม่พบตัวติดตามของ LinkedIn",
+    "description": ""
+  },
+  "no-trackers-p1": {
+    "message": "LinkedIn Container ไม่พบตัวติดตาม LinkedIn ใด ๆ บนหน้านี้ แต่อาจยังมีตัวติดตามชนิดอื่น ๆ อยู่",
+    "description": ""
+  },
+  "learn-more": {
+    "message": "เรียนรู้เพิ่มเติม",
+    "description": "This is a link that opens a page with more information about LinkedIn Container."
+  },
+  "how-fbc-works": {
+    "message": "LinkedIn Container ทำงานอย่างไร",
+    "description": "This is a button that opens the LinkedIn Container onboarding flow."
+  },
+  "trackers-detected-subhead": {
+    "message": "เราปกป้องคุณจาก LinkedIn",
+    "description": "This is a subhead, and it means that the add on has protected the user by blocking LinkedIn trackers."
+  },
+  "trackers-detected-p1": {
+    "message": "ปุ่ม LinkedIn ที่ปรากฏในไซต์ซื้อของ ข่าว และอื่น ๆ มีตัวติดตามที่บอก LinkedIn ว่าคุณไปเยี่ยมชมเว็บใดมาบ้าง ถึงแม้ว่าคุณจะไม่เคยใช้ปุ่มเหล่านี้เพื่อกดถูกใจหรือแชร์ แต่ตัวติดตามยังสามารถรวบรวมข้อมูลเกี่ยวกับการเรียกดูของคุณได้ ซึ่ง LinkedIn Container จะปิดกั้นตัวติดตามเหล่านี้",
+    "description": ""
+  },
+  "trackers-detected-p2": {
+    "message": "LinkedIn Container จะปิดกั้นตัวติดตามเหล่านี้ แต่ถ้าคุณคลิกที่ปุ่มใดปุ่มหนึ่งเหล่านี้ LinkedIn จะสามารถติดตามคุณได้",
+    "description": ""
+  },
+  "trackers-detected-fence-alt": {
+    "message": "รั้ว LinkedIn Container พร้อมโล่",
+    "description": "This is alternative text describing the container fence icon."
+  },
+  "sites-added-subhead": {
+    "message": "ไซต์ที่อนุญาตใน LinkedIn Container",
+    "description": "This is a panel subhead."
+  },
+  "sites-included": {
+    "message": "ไซต์ที่รวมอยู่",
+    "description": "This is a header for the list of websites that are in the LinkedIn Container by default. Capitalized letters are preferred if that makes sense/is feasible for the language."
+  },
+  "no-sites-added": {
+    "message": "ไม่มี",
+    "description": "This message is shown beneath the 'SITES YOU’VE ALLOWED' list header when no sites have been added to the contaner."
+  },
+  "sites-allowed": {
+    "message": "ไซต์ที่คุณได้อนุญาต",
+    "description": "This is the header for the list of sites the user has manually added into the LinkedIn Container. Capitalized letters are preferred if that makes sense/is feasible for the lanaguage."
+  },
+  "sites-added-p1": {
+    "message": "LinkedIn Container ทำให้ไซต์ที่เป็นของ LinkedIn อยู่ภายในขอบเขต คุณสามารถอนุญาตให้ไซต์อื่น ๆ เข้ามาในขอบเขตได้ แต่จะทำให้ LinkedIn ติดตามการเรียกดูเว็บของคุณได้มากขึ้น"
+  },
+  "remove": {
+    "message": "เอาออก",
+    "description": ""
+  },
+  "button-allow-site": {
+    "message": "อนุญาตไซต์ใน LinkedIn Container",
+    "description": "Button text that allows sites to be added to the LinkedIn Container"
+  },
+  "button-remove-site": {
+    "message": "เอาไซต์ออกจาก LinkedIn Container",
+    "description": "Button text that removes an already-added site from the LinkedIn Container to the default container"
+  },
+  "button-remove-site-tooltip": {
+    "message": "เนื่องจากไซต์นี้เป็นไซต์ของ LinkedIn จึงไม่สามารถเอาออกจาก LinkedIn Container ได้",
+    "description": "Tooltip that is displayed when hovering over the remove site button"
+  },
+  "remove-site-subhead": {
+    "message": "ต้องการเอาไซต์ออกจาก LinkedIn Container หรือไม่?",
+    "description": ""
+  },
+  "remove-site-p1": {
+    "message": "การเอาไซต์นี้ออกจาก LinkedIn Container จะทำให้ไม่สามารถใช้คุณลักษณะการลงชื่อเข้าใช้ด้วย LinkedIn ได้อีกต่อไป และจะลบคุกกี้การติดตามของ LinkedIn",
+    "description": ""
+  },
+  "remove-site-p2": {
+    "message": " ถ้าคุณต้องการใช้การเข้าสู่ระบบด้วย LinkedIn อีกครั้ง คุณจะต้องเพิ่มกลับไปที่ LinkedIn Container ใหม่",
+    "description": ""
+  },
+  "add-site-subhead": {
+    "message": "ต้องการอนุญาตการติดตามของ LinkedIn บนไซต์นี้หรือไม่?",
+    "description": ""
+  },
+  "add-site-p1": {
+    "message": "ตัวเลือกนี้ให้คุณสามารถเข้าสู่ระบบด้วย LinkedIn ได้ แต่จะทำให้ LinkedIn สามารถติดตามสิ่งต่าง ๆ ที่คุณได้ทำบนไซต์นี้ได้",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-share": {
+    "message": "LinkedIn Container ได้ปิดใช้งานปุ่มนี้ และปิดกั้น LinkedIn ไม่ให้ติดตามการเยี่ยมชมหน้านี้ของคุณ",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-login": {
+    "message": "LinkedIn Container ได้ปิดกั้นตัวติดตามของ LinkedIn ถ้าคุณใช้การเข้าสู่ระบบด้วย LinkedIn บนไซต์นี้ LinkedIn จะสามารถติดตามคุณได้",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-p1": {
+    "message": "ต้องการอนุญาตให้ LinkedIn ติดตามคุณที่นี่หรือไม่?",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-p2": {
+    "message": "ถ้าคุณต้องการใช้การเข้าสู่ระบบด้วย LinkedIn จะทำให้ LinkedIn สามารถติดตามกิจกรรมของคุณบนไซต์นี้ได้ ซึ่งจะช่วยให้พวกเขาสร้างภาพชีวิตออนไลน์ของคุณได้สมบูรณ์ยิ่งขึ้น",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-checkbox": {
+    "message": "ไม่ต้องแสดงข้อความนี้อีก",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-share-passive": {
+    "message": "ถ้าคุณคลิกปุ่มนี้ LinkedIn จะสามารถติดตามการเยี่ยมชมไซต์นี้ของคุณได้",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-email": {
+    "message": "ถ้าคุณใช้ที่อยู่อีเมลจริงของคุณที่นี่ LinkedIn อาจสามารถติดตามคุณได้ คลิกเพื่อเรียนรู้เพิ่มเติม",
+    "description": ""
+  },
+  "inPageUI-tooltip-email-prompt-p1": {
+    "message": "ต้องการอนุญาตให้ LinkedIn ติดตามคุณที่นี่หรือไม่?",
+    "description": ""
+  },
+  "inPageUI-tooltip-email-prompt-p2": {
+    "message": "ไซต์นี้สามารถแชร์ที่อยู่อีเมลของคุณกับ LinkedIn ซึ่งช่วยให้ LinkedIn ติดตามคุณได้ ให้ใช้บริการ เช่น Firefox Relay เพื่อซ่อนที่อยู่อีเมลจริงของคุณ",
+    "description": ""
+  },
+  "btn-relay-dismiss": {
+    "message": "ปิด",
+    "description": ""
+  },
+  "btn-relay-try": {
+    "message": "ลองใช้ Firefox Relay",
+    "description": ""
+  }
+}

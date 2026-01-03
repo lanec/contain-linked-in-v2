@@ -1,0 +1,114 @@
+{
+  "extensionDescription": {
+    "message": "Firefox Container LinkedIn saytının sizi internetdə üçüncü-tərəf çərəzlərlə izləməsini əngəlləmək üçün LinkedIndakı aktivliyinizi digər saytlardan izolə edir.", 
+    "description": "Description of the extension. DO NOT TRANSLATE \"LinkedIn Container\"."
+  }, 
+  "in-fbc-subhead": {
+    "message": "$URL$ LinkedIn Container-dədir.", 
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".", 
+    "placeholders": {
+      "url": {
+        "content": "$1", 
+        "example": "www.linkedin.com"
+      }
+    }
+  }, 
+  "notOnLinkedInHeader": {
+    "message": "$URL$ LinkedIn Container-də deyil.", 
+    "description": "This is shown at the top of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".", 
+    "placeholders": {
+      "url": {
+        "content": "$1", 
+        "example": "www.google.com"
+      }
+    }
+  }, 
+  "onUnknownSiteHeader": {
+    "message": "Bu sayt LinkedIn Container-də deyil.", 
+    "description": "This is shown at the top of the panel pop-up when the user is on an \"unknown\" website - e.g., about:newtab. DO NOT TRANSLATE \"LinkedIn Container\"."
+  }, 
+  "facebookContainer": {
+    "message": "LinkedIn Konteyneri", 
+    "description": "This is the name of the extension, and appears at the top of all onboarding panels. Please do not translate \"LinkedIn Container\"."
+  }, 
+  "onboarding1-subhead": {
+    "message": "LinkedIn Konteyneri istifadəsi", 
+    "description": "This is the subhead of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  }, 
+  "btn-allow": {
+    "message": "İcazə ver", 
+    "description": "This is a button to allows users to whitelist the domain, adding it to the LinkedIn container."
+  }, 
+  "btn-cancel": {
+    "message": "Ləğv et", 
+    "description": "This is a button to cancel out of the onboarding panel."
+  }, 
+  "btn-next": {
+    "message": "Sonrakı", 
+    "description": "This is a button to continue to the next onboarding panel."
+  }, 
+  "btn-back": {
+    "message": "Geri", 
+    "description": "This is a button that returns the user to the previous onboarding panel."
+  }, 
+  "btn-done": {
+    "message": "Hazır", 
+    "description": "This is a button the user clicks to close out the panel when they have finished reading the text."
+  }, 
+  "btn-arrow-back": {
+    "message": "Əvvəlki panelə qayıt.", 
+    "description": "This is alternative text for the back arrow button."
+  }, 
+  "btn-arrow-forward": {
+    "message": "LinkedIn Konteynerinin necə işlədiyinə get", 
+    "description": "This is alternative text for the arrow icon next to the \"How LinkedIn Container Works\" link"
+  }, 
+  "no-trackers-subhead": {
+    "message": "LinkedIn izləyiciləri aşkarlanmadı", 
+    "description": ""
+  }, 
+  "learn-more": {
+    "message": "Ətraflı öyrən", 
+    "description": "This is a link that opens a page with more information about LinkedIn Container."
+  }, 
+  "how-fbc-works": {
+    "message": "LinkedIn Konteyneri necə işləyir", 
+    "description": "This is a button that opens the LinkedIn Container onboarding flow."
+  }, 
+  "trackers-detected-subhead": {
+    "message": "Sizi LinkedIndan qoruduq.", 
+    "description": "This is a subhead, and it means that the add on has protected the user by blocking LinkedIn trackers."
+  }, 
+  "sites-added-subhead": {
+    "message": "LinkedIn Konteynerində icazə verilən saytlar", 
+    "description": "This is a panel subhead."
+  }, 
+  "sites-included": {
+    "message": "DAXİL EDİLƏN SAYTLAR", 
+    "description": "This is a header for the list of websites that are in the LinkedIn Container by default. Capitalized letters are preferred if that makes sense/is feasible for the language."
+  }, 
+  "no-sites-added": {
+    "message": "Yoxdur", 
+    "description": "This message is shown beneath the 'SITES YOU’VE ALLOWED' list header when no sites have been added to the contaner."
+  }, 
+  "sites-allowed": {
+    "message": "İCAZƏ VERDİYİNİZ SAYTLAR", 
+    "description": "This is the header for the list of sites the user has manually added into the LinkedIn Container. Capitalized letters are preferred if that makes sense/is feasible for the lanaguage."
+  }, 
+  "remove": {
+    "message": "Sil", 
+    "description": ""
+  }, 
+  "remove-site-subhead": {
+    "message": "Sayt LinkedIn Konteynerindən silinsin?", 
+    "description": ""
+  }, 
+  "inPageUI-tooltip-prompt-p1": {
+    "message": "LinkedIn sizi burada izləməyə bilsin?", 
+    "description": ""
+  }, 
+  "inPageUI-tooltip-prompt-checkbox": {
+    "message": "Bunu təkrar göstərmə", 
+    "description": ""
+  }
+}

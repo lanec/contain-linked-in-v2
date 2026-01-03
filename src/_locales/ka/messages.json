@@ -1,0 +1,268 @@
+{
+  "extensionDescription": {
+    "message": "LinkedIn Container მიჯნავს თქვენს LinkedIn-ვინაობას დანარჩენი ვებგვერდებისგან, რაც ხელს შეუშლის LinkedIn-ს თვალი ადევნოს თქვენს მოქმედებებს სხვა საიტებზე, თავიანთი ფუნთუშების მეშვეობით.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "in-fbc-subhead": {
+    "message": "$URL$ არის LinkedIn Container-ში.",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.linkedin.com"
+      }
+    }
+  },
+  "in-fbc-p1": {
+    "message": "LinkedIn-ს შეუძლია თვალი გადევნოთ ამ საიტზე. LinkedIn Container-იდან მოსაცილებლად, აირჩიეთ „LinkedIn Container-ში დაშვებული საიტები“ და ამოშალეთ სიიდან."
+  },
+  "on-facebook-subhead": {
+    "message": "LinkedIn-სა და საიტებზე, LinkedIn Container-ის საზღვრებში",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "on-facebook-p1": {
+    "message": "ეს ნიშანი გამოჩნდება Firefox-ის მისამართების ველში, როცა ეწვევით LinkedIn-ის კუთვნილ საიტებს ან იმ საიტებს, რომლებიც დამატებული გაქვთ LinkedIn Container-ში.",
+    "description": "This is shown in the body of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "on-facebook-p2": {
+    "message": "აღნიშნული საიტები ითხოვს თქვენს LinkedIn-ვინაობასთან წვდომას (ანუ დადგენას, თუ ვინ ხართ), სათანადოდ მუშაობისთვის. ეს კი ნიშნავს, რომ LinkedIn შეძლებს ამ საიტებზე თვალი მიადევნოს თქვენს ყველა მოქმედებას.",
+    "description": "This is shown in the body of the panel pop up when the user is on LinkedIn."
+  },
+  "notOnLinkedInHeader": {
+    "message": "$URL$ არაა LinkedIn Container-ში.",
+    "description": "This is shown at the top of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.google.com"
+      }
+    }
+  },
+  "notOnLinkedInText": {
+    "message": "საიტი LinkedIn Container-ის გარეთაა. ეს ურთულებს LinkedIn-ს, თვალი გადევნოთ ვებსივრცეში.",
+    "description": "This is shown in the body of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "onUnknownSiteHeader": {
+    "message": "ეს საიტი არაა განთავსებული LinkedIn Container-ში.",
+    "description": "This is shown at the top of the panel pop-up when the user is on an \"unknown\" website - e.g., about:newtab. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "facebookContainer": {
+    "message": "LinkedIn Container",
+    "description": "This is the name of the extension, and appears at the top of all onboarding panels. Please do not translate \"LinkedIn Container\"."
+  },
+  "onboarding1-subhead": {
+    "message": "LinkedIn Container-ის გამოყენება",
+    "description": "This is the subhead of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding1-p1": {
+    "message": "LinkedIn-ს შეუძლია თვალი ადევნოს თქვენს მოქმედებებს, LinkedIn.com საიტის მიღმაც. მაგალითად, LinkedIn-ის მოწონებისა და გაზიარების ღილაკებს, შეუძლია აღრიცხოს სად იყავით — მაშინაც კი თუ არაფერს მოიწონებთ ან გააზიარებთ.",
+    "description": "This is the first paragraph of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding1-p2": {
+    "message": "LinkedIn Container კი მიჯნავს LinkedIn-ის გვერდებსა და დანარჩენ ვებსივრცეს, რაც ურთულებს მას ინტერნეტში თქვენს მოქმედებებზე თვალის მიდევნებას.",
+    "description": "Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding2-subhead": {
+    "message": "LinkedIn-სა და საიტებზე, LinkedIn Container-ის საზღვრებში",
+    "description": "This is the subhead for the second onboarding panel. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding2-alt": {
+    "message": "LinkedIn Container-ის ზღუდის ნიშანი",
+    "description": "This is alternative text for the icon in the second onboarding panel"
+  },
+  "onboarding2-p1": {
+    "message": "ეს ნიშანი გამოჩნდება Firefox-ის მისამართების ველში, როცა ეწვევით საიტებს, დაბოლოებით LinkedIn.com, რომლებიც მოთავსებულია LinkedIn Container-ის საზღვრებში.",
+    "description": "This is the first paragraph of the second onboarding panel."
+  },
+  "onboarding2-p2": {
+    "message": "აღნიშნული საიტები ითხოვს თქვენს LinkedIn-ვინაობასთან წვდომას (ანუ დადგენას, თუ ვინ ხართ), სათანადოდ მუშაობისთვის. ეს კი ნიშნავს, რომ LinkedIn შეძლებს ამ საიტებზე თვალი მიადევნოს თქვენს ყველა მოქმედებას.",
+    "description": "This is the second paragraph of the second onboarding panel. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding4-subhead": {
+    "message": "LinkedIn-ის მიღმა",
+    "description": "This is the subhead for the fourth onboarding panel."
+  },
+  "onboarding4-p1": {
+    "message": "მაშინაც კი, როცა LinkedIn-ზე არ იმყოფებით, LinkedIn-ს შეუძლია თვალი გადევნოთ ინტერნეტში. ღილაკები, რომლებიც საშუალებას გაძლევთ დატოვოთ გამოხმაურება ან შეხვიდეთ საიტზე LinkedIn-ის ანგარიშით, შეიცავს მეთვალყურეებს. LinkedIn Container შეზღუდავს ამ თვალისმდევნელ შიგთავსს და დაურთავს ზღუდის ნიშანს, რომლითაც გაიგებთ, საიდან მოაცილა მეთვალყურეები.",
+    "description": "This is the first paragraph of the fourth onboarding panel."
+  },
+  "onboarding4-img": {
+    "message": "ამ სურათზე გამოსახულია, თუ როგორ გამოჩნდება LinkedIn Container-ის ზღუდის ნიშანი, LinkedIn-ის მოწონების ღილაკის გვერდზე.",
+    "description": "This is alternative text for the image shown in the fourth onboarding panel."
+  },
+  "onboarding5-subhead": {
+    "message": "შესვლა LinkedIn-ით სხვა საიტებზე",
+    "description": "This is the subhead for the fifth onboarding panel."
+  },
+  "onboarding5-p1": {
+    "message": "თუ გსურთ LinkedIn-ით შესვლა სხვა საიტებზე, უნდა მოათავსოთ ისინი საზღვრებს შიგნით. დაწკაპეთ ზღუდის ნიშანს და აირჩიეთ ქვემოთ „საიტის დაშვება LinkedIn Container-ში“.",
+    "description": "This is the first paragraph of the fifth onboarding panel."
+  },
+  "onboarding5-img": {
+    "message": "ამ სურათზე გამოსახულია, თუ როგორ გამოიყურება საიტის LinkedIn Container-ში დასამატებელი ღილაკი შესაბამის არეში.",
+    "description": "This is alternative text for the image shown in the fifth onboarding panel."
+  },
+  "onboarding5-p2": {
+    "message": "შედეგად, საშუალება მოგეცემათ LinkedIn-ით შეხვიდეთ, თუმცა ეს LinkedIn-საც მისცემს შესაძლებლობას თვალი ადევნოს ამ საიტზე თქვენს მოქმედებებს.",
+    "description": "This is the second paragraph on the fifth onboarding panel."
+  },
+  "btn-allow": {
+    "message": "დაშვება",
+    "description": "This is a button to allows users to whitelist the domain, adding it to the LinkedIn container."
+  },
+  "btn-cancel": {
+    "message": "გაუქმება",
+    "description": "This is a button to cancel out of the onboarding panel."
+  },
+  "btn-next": {
+    "message": "შემდეგ",
+    "description": "This is a button to continue to the next onboarding panel."
+  },
+  "btn-back": {
+    "message": "უკან",
+    "description": "This is a button that returns the user to the previous onboarding panel."
+  },
+  "btn-done": {
+    "message": "დასრულება",
+    "description": "This is a button the user clicks to close out the panel when they have finished reading the text."
+  },
+  "btn-arrow-back": {
+    "message": "წინა არეზე დაბრუნება.",
+    "description": "This is alternative text for the back arrow button."
+  },
+  "btn-arrow-forward": {
+    "message": "იხილეთ, როგორ მუშაობს LinkedIn Container",
+    "description": "This is alternative text for the arrow icon next to the \"How LinkedIn Container Works\" link"
+  },
+  "no-trackers-subhead": {
+    "message": "LinkedIn-მეთვალყურეები არ აღმოჩენილა",
+    "description": ""
+  },
+  "no-trackers-p1": {
+    "message": "LinkedIn Container-ს არ აღმოუჩენია LinkedIn-ის მეთვალყურეები ამ გვერდზე. თუმცაღა, ეს გვერდი მაინც შეიძლება შეიცავდეს სხვა სახის მეთვალყურეებს.",
+    "description": ""
+  },
+  "learn-more": {
+    "message": "ვრცლად",
+    "description": "This is a link that opens a page with more information about LinkedIn Container."
+  },
+  "how-fbc-works": {
+    "message": "როგორ მუშაობს LinkedIn Container",
+    "description": "This is a button that opens the LinkedIn Container onboarding flow."
+  },
+  "trackers-detected-subhead": {
+    "message": "ჩვენ გიცავთ LinkedIn-ისგან.",
+    "description": "This is a subhead, and it means that the add on has protected the user by blocking LinkedIn trackers."
+  },
+  "trackers-detected-p1": {
+    "message": "LinkedIn-ის ღილაკები, რომლებიც ჩნდება საყიდლების, სიახლეებისა და სხვა სახის საიტებზე, შეიცავს მეთვალყურეებს, მათი მეშვეობით კი LinkedIn იგებს, თუ რომელი გვერდები მოინახულეთ. მიუხედავად იმისა, გამოიყენებთ თუ არა ამ ღილაკებს მოწონებისთვის ან გაზიარებისთვის, მეთვალყურეებს მაინც შეუძლია აღრიცხოს, მონახულებული გვერდები. LinkedIn Container კი ზღუდავს ამ მეთვალყურეებს.",
+    "description": ""
+  },
+  "trackers-detected-p2": {
+    "message": "LinkedIn Container ზღუდავს ამ მეთვალყურეებს. თუმცაღა, თუ დააჭერთ რომელიმე ამ ღილაკს, LinkedIn-ს შეეძლება თვალი მოგადევნოთ.",
+    "description": ""
+  },
+  "trackers-detected-fence-alt": {
+    "message": "LinkedIn Container-ის ზღუდე ნიშნით.",
+    "description": "This is alternative text describing the container fence icon."
+  },
+  "sites-added-subhead": {
+    "message": "დაშვებული საიტები LinkedIn Container-ში",
+    "description": "This is a panel subhead."
+  },
+  "sites-included": {
+    "message": "შემოსაზღვრული საიტები",
+    "description": "This is a header for the list of websites that are in the LinkedIn Container by default. Capitalized letters are preferred if that makes sense/is feasible for the language."
+  },
+  "no-sites-added": {
+    "message": "არცერთი",
+    "description": "This message is shown beneath the 'SITES YOU’VE ALLOWED' list header when no sites have been added to the contaner."
+  },
+  "sites-allowed": {
+    "message": "დაშვებული საიტები",
+    "description": "This is the header for the list of sites the user has manually added into the LinkedIn Container. Capitalized letters are preferred if that makes sense/is feasible for the lanaguage."
+  },
+  "sites-added-p1": {
+    "message": "LinkedIn Container აქცევს LinkedIn-ის კუთვნილ საიტებს ჩარჩოებში. შეგიძლიათ სხვა საიტებიც მოაქციოთ ამავე ჩარჩოებში, თუმცა ეს საშუალებას მისცემს LinkedIn-ს, თვალი მიადევნოს თქვენს მოქმედებებს ვებსივრცეში."
+  },
+  "remove": {
+    "message": "მოცილება",
+    "description": ""
+  },
+  "button-allow-site": {
+    "message": "საიტის დაშვება LinkedIn Container-ში",
+    "description": "Button text that allows sites to be added to the LinkedIn Container"
+  },
+  "button-remove-site": {
+    "message": "საიტის მოცილება LinkedIn Container-იდან",
+    "description": "Button text that removes an already-added site from the LinkedIn Container to the default container"
+  },
+  "button-remove-site-tooltip": {
+    "message": "ვინაიდან LinkedIn-ის კუთვნილი საიტია, მისი მოცილება შეუძლებელია LinkedIn Container-დან.",
+    "description": "Tooltip that is displayed when hovering over the remove site button"
+  },
+  "remove-site-subhead": {
+    "message": "გსურთ საიტის LinkedIn Container-იდან მოცილება?",
+    "description": ""
+  },
+  "remove-site-p1": {
+    "message": "ამ საიტის LinkedIn Container-იდან მოცილება ნიშნავს, რომ LinkedIn-ის ანგარიშით შესვლა აღარ იმუშავებს და LinkedIn-ის თვალყურისმდევნელი ფუნთუშები წაიშლება.",
+    "description": ""
+  },
+  "remove-site-p2": {
+    "message": " თუ გსურთ, გამოიყენოთ LinkedIn კვლავ, დაგჭირდებათ მისი უკან დამატება LinkedIn Container-ში.",
+    "description": ""
+  },
+  "add-site-subhead": {
+    "message": "გსურთ, LinkedIn თვალს გადევნებდეთ ამ საიტზე?",
+    "description": ""
+  },
+  "add-site-p1": {
+    "message": "შედეგად, საშუალება მოგეცემათ LinkedIn-ით შეხვიდეთ, თუმცა ეს LinkedIn-საც მისცემს შესაძლებლობას იხილოს, ამ საიტზე თქვენი მოქმედებები.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-share": {
+    "message": "LinkedIn Container-მა გამორთო ეს ღილაკი და შეუზღუდა LinkedIn-ს ამ გვერდზე თქვენი საქმიანობისთვის თვალის მიდევნების საშუალება.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-login": {
+    "message": "LinkedIn Container-მა შეზღუდა LinkedIn-ის მეთვალყურეები. თუ თქვენ LinkedIn-ის ანგარიშით შეხვალთ ამ საიტზე, LinkedIn შეძლებს თვალი მოგადევნოთ.",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-p1": {
+    "message": "გსურთ LinkedIn-მა თვალი გადევნოთ აქ?",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-p2": {
+    "message": "თუ გსურთ შეხვიდეთ LinkedIn-ით, მაშინ LinkedIn შეძლებს თვალი ადევნოს თქვენს მოქმედებებს ამ საიტზე. ეს საშუალებას მისცემს მათ, სრული სურათი შეიქმნან, თქვენი ინტერნეტცხოვრების შესახებ.",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-checkbox": {
+    "message": "მომავალში ჩვენების გარეშე",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-share-passive": {
+    "message": "თუ ამ ღილაკს დააწვებით, LinkedIn შეძლებს თვალი გადევნოთ ამ საიტზე.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-email": {
+    "message": "თუ ნამდვილ ელფოსტას გამოიყენებთ აქ, LinkedIn შეძლებს თვალი გადევნოთ. დაწკაპეთ და იხილეთ ვრცლად.",
+    "description": ""
+  },
+  "inPageUI-tooltip-email-prompt-p1": {
+    "message": "გსურთ LinkedIn-მა თვალი გადევნოთ აქ?",
+    "description": ""
+  },
+  "inPageUI-tooltip-email-prompt-p2": {
+    "message": "ამ საიტს, შეუძლია თქვენი ელფოსტა გაუზიაროს LinkedIn-ს, შედეგად კი LinkedIn შეძლებს თვალი გადევნოთ. გამოიყენეთ Firefox Relay ან მსგავსი მომსახურებები, თქვენი ნამდვილი ელფოსტის დასაფარად.",
+    "description": ""
+  },
+  "btn-relay-dismiss": {
+    "message": "გამოტოვება",
+    "description": ""
+  },
+  "btn-relay-try": {
+    "message": "გამოსცადეთ Firefox Relay",
+    "description": ""
+  }
+}

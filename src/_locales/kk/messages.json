@@ -1,0 +1,74 @@
+{
+  "onUnknownSiteHeader": {
+    "message": "Бұл сайт LinkedIn контейнерінде емес.",
+    "description": "This is shown at the top of the panel pop-up when the user is on an \"unknown\" website - e.g., about:newtab. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "facebookContainer": {
+    "message": "LinkedIn контейнері",
+    "description": "This is the name of the extension, and appears at the top of all onboarding panels. Please do not translate \"LinkedIn Container\"."
+  },
+  "onboarding1-subhead": {
+    "message": "LinkedIn контейнерін пайдалану",
+    "description": "This is the subhead of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "btn-allow": {
+    "message": "Рұқсат ету",
+    "description": "This is a button to allows users to whitelist the domain, adding it to the LinkedIn container."
+  },
+  "btn-cancel": {
+    "message": "Бас тарту",
+    "description": "This is a button to cancel out of the onboarding panel."
+  },
+  "btn-next": {
+    "message": "Келесі",
+    "description": "This is a button to continue to the next onboarding panel."
+  },
+  "btn-back": {
+    "message": "Артқа",
+    "description": "This is a button that returns the user to the previous onboarding panel."
+  },
+  "btn-done": {
+    "message": "Дайын",
+    "description": "This is a button the user clicks to close out the panel when they have finished reading the text."
+  },
+  "btn-arrow-back": {
+    "message": "Алдыңғы панельге оралу.",
+    "description": "This is alternative text for the back arrow button."
+  },
+  "learn-more": {
+    "message": "Көбірек білу",
+    "description": "This is a link that opens a page with more information about LinkedIn Container."
+  },
+  "how-fbc-works": {
+    "message": "LinkedIn контейнері қалай жұмыс істейді",
+    "description": "This is a button that opens the LinkedIn Container onboarding flow."
+  },
+  "trackers-detected-subhead": {
+    "message": "Біз сізді LinkedIn-тен қорғадық.",
+    "description": "This is a subhead, and it means that the add on has protected the user by blocking LinkedIn trackers."
+  },
+  "no-sites-added": {
+    "message": "Жоқ",
+    "description": "This message is shown beneath the 'SITES YOU’VE ALLOWED' list header when no sites have been added to the contaner."
+  },
+  "sites-allowed": {
+    "message": "СІЗ РҰҚСАТ ЕТКЕН САЙТТАР",
+    "description": "This is the header for the list of sites the user has manually added into the LinkedIn Container. Capitalized letters are preferred if that makes sense/is feasible for the lanaguage."
+  },
+  "remove": {
+    "message": "Өшіру",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-checkbox": {
+    "message": "Бұны маған қайта көрсетпеу",
+    "description": ""
+  },
+  "btn-relay-dismiss": {
+    "message": "Тайдыру",
+    "description": ""
+  },
+  "btn-relay-try": {
+    "message": "Firefox Relay қолданып көру",
+    "description": ""
+  }
+}

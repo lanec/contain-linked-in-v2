@@ -1,0 +1,268 @@
+{
+  "extensionDescription": {
+    "message": "LinkedIn Container isolerer din aktivitet på LinkedIn fra dine andre aktiviteter på nettet. Dette forhindrer LinkedIn i at spore dig uden for LinkedIns websted ved hjælp af tredjeparts-cookies.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "in-fbc-subhead": {
+    "message": "$URL$ er i LinkedIn Container.",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.linkedin.com"
+      }
+    }
+  },
+  "in-fbc-p1": {
+    "message": "LinkedIn kan nu spore dig på dette websted. For at fjerne dette websted fra LinkedIn Container, vælg “Websteder tilladt i LinkedIn Container“, og fjern det fra listen."
+  },
+  "on-facebook-subhead": {
+    "message": "På LinkedIn og på websteder inden for rammen af LinkedIn Container",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "on-facebook-p1": {
+    "message": "Dette ikon vises i Firefox' adressefelt, når du besøger websteder ejet af LinkedIn, eller websteder du har føjet til LinkedIn Container.",
+    "description": "This is shown in the body of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "on-facebook-p2": {
+    "message": "Disse websteder skal have adgang til din LinkedIn-identitet (eller vide hvem du er) for at virke. Det betyder også, at LinkedIn kan spore, hvad du foretager dig på disse websteder.",
+    "description": "This is shown in the body of the panel pop up when the user is on LinkedIn."
+  },
+  "notOnLinkedInHeader": {
+    "message": "$URL$ er ikke i LinkedIn Container.",
+    "description": "This is shown at the top of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.google.com"
+      }
+    }
+  },
+  "notOnLinkedInText": {
+    "message": "Dette websted befinder sig uden for LinkedIn Container. Dette gør det sværere for LinkedIn at spore dig rundt på nettet.",
+    "description": "This is shown in the body of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "onUnknownSiteHeader": {
+    "message": "Dette websted er ikke i LinkedIn Container.",
+    "description": "This is shown at the top of the panel pop-up when the user is on an \"unknown\" website - e.g., about:newtab. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "facebookContainer": {
+    "message": "LinkedIn Container",
+    "description": "This is the name of the extension, and appears at the top of all onboarding panels. Please do not translate \"LinkedIn Container\"."
+  },
+  "onboarding1-subhead": {
+    "message": "Brug af LinkedIn Container",
+    "description": "This is the subhead of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding1-p1": {
+    "message": "LinkedIn kan spore din aktivitet på nettet langt ud over LinkedIn.com. Fx kan LinkedIn-knapperne “Synes godt om” og ”Del” spore, hvor du har været — selv på sider, hvor du ikke har klikket på knapperne.",
+    "description": "This is the first paragraph of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding1-p2": {
+    "message": "LinkedIn Container opretter en ramme mellem LinkedIn-websteder og resten af internettet, så det er sværere for LinkedIn at spore dig rundt på nettet.",
+    "description": "Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding2-subhead": {
+    "message": "På LinkedIn og på websteder inden for rammen af LinkedIn Container",
+    "description": "This is the subhead for the second onboarding panel. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding2-alt": {
+    "message": "Stakit-ikon til LinkedIn Container",
+    "description": "This is alternative text for the icon in the second onboarding panel"
+  },
+  "onboarding2-p1": {
+    "message": "Dette ikon vises i Firefox' adressefelt, når du besøger websteder, som fx LinkedIn.com, der er inden for rammen af LinkedIn Container.",
+    "description": "This is the first paragraph of the second onboarding panel."
+  },
+  "onboarding2-p2": {
+    "message": "Disse websteder skal have adgang til din LinkedIn-identitet (eller vide hvem du er) for at fungere. Det betyder også, at LinkedIn kan spore, hvad du foretager dig på disse websteder.",
+    "description": "This is the second paragraph of the second onboarding panel. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding4-subhead": {
+    "message": "Uden for LinkedIn",
+    "description": "This is the subhead for the fourth onboarding panel."
+  },
+  "onboarding4-p1": {
+    "message": "Selv når du ikke er på LinkedIn, kan LinkedIn spore dig på nettet. Knapper, der giver dig mulighed for at lave opslag på LinkedIn eller logge på websteder ved hjælp af din LinkedIn-konto, kan indeholde sporings-mekanismer. LinkedIn Container blokerer disse sporings-mekanismer og viser stakit-ikonet for at vise dig, hvor sporings-mekanismer blev fjernet.",
+    "description": "This is the first paragraph of the fourth onboarding panel."
+  },
+  "onboarding4-img": {
+    "message": "Dette billede viser, hvordan stakit-ikonet fra LinkedIn Container ser ud på et websted ved siden af en \"Synes om\"-knap fra LinkedIn.",
+    "description": "This is alternative text for the image shown in the fourth onboarding panel."
+  },
+  "onboarding5-subhead": {
+    "message": "Log ind med LinkedIn på andre websteder",
+    "description": "This is the subhead for the fifth onboarding panel."
+  },
+  "onboarding5-p1": {
+    "message": "For at bruge dit LinkedIn-login på andre websteder, skal du flytte dem inden for rammen. Klik på ikonet med stakittet og vælg \"Tillad websted i LinkedIn Container\".",
+    "description": "This is the first paragraph of the fifth onboarding panel."
+  },
+  "onboarding5-img": {
+    "message": "Dette billede viser, hvordan knappen til at føje et websted til LinkedIn Container vil blive vist i panelet.",
+    "description": "This is alternative text for the image shown in the fifth onboarding panel."
+  },
+  "onboarding5-p2": {
+    "message": "Dette lader dig logge ind med LinkedIn, men giver LinkedIn mulighed for at spore din aktivitet på webstedet.",
+    "description": "This is the second paragraph on the fifth onboarding panel."
+  },
+  "btn-allow": {
+    "message": "Tillad",
+    "description": "This is a button to allows users to whitelist the domain, adding it to the LinkedIn container."
+  },
+  "btn-cancel": {
+    "message": "Annuller",
+    "description": "This is a button to cancel out of the onboarding panel."
+  },
+  "btn-next": {
+    "message": "Næste",
+    "description": "This is a button to continue to the next onboarding panel."
+  },
+  "btn-back": {
+    "message": "Tilbage",
+    "description": "This is a button that returns the user to the previous onboarding panel."
+  },
+  "btn-done": {
+    "message": "Færdig",
+    "description": "This is a button the user clicks to close out the panel when they have finished reading the text."
+  },
+  "btn-arrow-back": {
+    "message": "Gå tilbage til forrige panel.",
+    "description": "This is alternative text for the back arrow button."
+  },
+  "btn-arrow-forward": {
+    "message": "Gå til “Sådan virker LinkedIn Container“",
+    "description": "This is alternative text for the arrow icon next to the \"How LinkedIn Container Works\" link"
+  },
+  "no-trackers-subhead": {
+    "message": "Ingen sporings-elementer fra LinkedIn fundet",
+    "description": ""
+  },
+  "no-trackers-p1": {
+    "message": "LinkedIn Container fandt ikke nogen sporings-elementer fra LinkedIn på denne side. Siden kan dog stadig indeholde andre typer af sporings-elementer.",
+    "description": ""
+  },
+  "learn-more": {
+    "message": "Læs mere",
+    "description": "This is a link that opens a page with more information about LinkedIn Container."
+  },
+  "how-fbc-works": {
+    "message": "Sådan virker LinkedIn Container",
+    "description": "This is a button that opens the LinkedIn Container onboarding flow."
+  },
+  "trackers-detected-subhead": {
+    "message": "Vi har beskyttet dig mod LinkedIn.",
+    "description": "This is a subhead, and it means that the add on has protected the user by blocking LinkedIn trackers."
+  },
+  "trackers-detected-p1": {
+    "message": "LinkedIn-knapper, der vises på netbutikker, nyheds-websteder og andre websteder indeholder sporings-mekanismer, der fortæller LinkedIn, hvor du har været på nettet. Selv hvis du aldrig klikker på nogen af knapperne, så kan LinkedIns sporings-mekanismer stadig indsamle data om dine vaner på nettet. LinkedIn Container blokerer disse sporings-mekanismer.",
+    "description": ""
+  },
+  "trackers-detected-p2": {
+    "message": "LinkedIn Container blokerer disse sporings-elementer. Hvis du klikker på en af LinkedIn-knapperne, vil LinkedIn dog være i stand til at spore dig.",
+    "description": ""
+  },
+  "trackers-detected-fence-alt": {
+    "message": "LinkedIn Container-stakit med skjold.",
+    "description": "This is alternative text describing the container fence icon."
+  },
+  "sites-added-subhead": {
+    "message": "Websteder tilladt i LinkedIn Container",
+    "description": "This is a panel subhead."
+  },
+  "sites-included": {
+    "message": "INKLUDEREDE WEBSTEDER",
+    "description": "This is a header for the list of websites that are in the LinkedIn Container by default. Capitalized letters are preferred if that makes sense/is feasible for the language."
+  },
+  "no-sites-added": {
+    "message": "Ingen",
+    "description": "This message is shown beneath the 'SITES YOU’VE ALLOWED' list header when no sites have been added to the contaner."
+  },
+  "sites-allowed": {
+    "message": "WEBSTEDER, DU HAR TILLADT",
+    "description": "This is the header for the list of sites the user has manually added into the LinkedIn Container. Capitalized letters are preferred if that makes sense/is feasible for the lanaguage."
+  },
+  "sites-added-p1": {
+    "message": "LinkedIn Container placerer websteder ejet af LinkedIn inden for rammen. Du kan tillade, at andre websteder kommer inden for rammen - men dette tillader LinkedIn at følge med i din adfærd på de pågældende websteder."
+  },
+  "remove": {
+    "message": "Fjern",
+    "description": ""
+  },
+  "button-allow-site": {
+    "message": "Tillad websted i LinkedIn Container",
+    "description": "Button text that allows sites to be added to the LinkedIn Container"
+  },
+  "button-remove-site": {
+    "message": "Fjern websted fra LinkedIn Container",
+    "description": "Button text that removes an already-added site from the LinkedIn Container to the default container"
+  },
+  "button-remove-site-tooltip": {
+    "message": "Fordi dette websted er ejet af LinkedIn, kan det ikke fjernes fra LinkedIn Container.",
+    "description": "Tooltip that is displayed when hovering over the remove site button"
+  },
+  "remove-site-subhead": {
+    "message": "Fjern websted fra LinkedIn Container?",
+    "description": ""
+  },
+  "remove-site-p1": {
+    "message": "At fjerne dette websted fra LinkedIn Container betyder, at funktionen til at logge ind med LinkedIn ikke længere virker, og sporings-cookies fra LinkedIn vil blive slettet.",
+    "description": ""
+  },
+  "remove-site-p2": {
+    "message": " Hvis du vil logge ind med LinkedIn, skal du føje webstedet til LinkedIn Container igen.",
+    "description": ""
+  },
+  "add-site-subhead": {
+    "message": "Tillad at LinkedIn sporer dig på dette websted?",
+    "description": ""
+  },
+  "add-site-p1": {
+    "message": "Dette lader dig logge ind med LinkedIn, men giver LinkedIn mulighed for at følge med i, hvad du gør på dette websted.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-share": {
+    "message": "LinkedIn Container har deaktiveret denne knap og forhindret LinkedIn i at spore dit besøg på denne side.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-login": {
+    "message": "LinkedIn Container har blokeret sporings-elementer fra LinkedIn. Hvis du bruger “Log ind med LinkedIn“ på dette websted, vil LinkedIn være i stand til at spore dig.",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-p1": {
+    "message": "Tillad LinkedIn at spore dig her?",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-p2": {
+    "message": "Hvis du vil logge ind med LinkedIn, så kan LinkedIn følge med i din aktivitet på dette websted. Dette kan sætte LinkedIn i stand til at tegne et mere komplet billede af dit liv på nettet.",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-checkbox": {
+    "message": "Vis mig ikke dette igen",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-share-passive": {
+    "message": "Hvis du klikker på denne knap, vil LinkedIn være i stand til at spore dit besøg på dette websted.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-email": {
+    "message": "Hvis du bruger din rigtige mailadresse her, kan LinkedIn muligvis spore dig. Klik for at læse mere.",
+    "description": ""
+  },
+  "inPageUI-tooltip-email-prompt-p1": {
+    "message": "Tillad LinkedIn at spore dig her?",
+    "description": ""
+  },
+  "inPageUI-tooltip-email-prompt-p2": {
+    "message": "Dette websted kan dele din mailadresse med LinkedIn, hvilket gør det muligt for LinkedIn at spore dig. Brug en tjeneste som Firefox Relay til at skjule din rigtige mailadresse.",
+    "description": ""
+  },
+  "btn-relay-dismiss": {
+    "message": "Afvis",
+    "description": ""
+  },
+  "btn-relay-try": {
+    "message": "Prøv Firefox Relay",
+    "description": ""
+  }
+}

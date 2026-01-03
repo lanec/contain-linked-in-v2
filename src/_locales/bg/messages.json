@@ -1,0 +1,268 @@
+{
+  "extensionDescription": {
+    "message": "LinkedIn Container изолира вашата активност във LinkedIn от останалата ви активност в мрежата, за да попречи на LinkedIn да ви проследява извън уебсайта на LinkedIn чрез бисквитки на трети страни.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "in-fbc-subhead": {
+    "message": "$URL$ е във LinkedIn Container.",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.linkedin.com"
+      }
+    }
+  },
+  "in-fbc-p1": {
+    "message": "LinkedIn вече може да ви следи на този сайт. За да премахнете този сайт от LinkedIn Container, изберете настройката „разрешени сайтове“ и го премахнете от списъка."
+  },
+  "on-facebook-subhead": {
+    "message": "Във самия LinkedIn и в сайтове вътре във LinkedIn Container",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "on-facebook-p1": {
+    "message": "Тази икона се появява в адресната лента на Firefox, когато посещавате сайтове, притежавани от LinkedIn, или сайтове, които сте добавили към LinkedIn Container.",
+    "description": "This is shown in the body of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "on-facebook-p2": {
+    "message": "Тези сайтове трябва да имат достъп до вашата самоличност във LinkedIn (или да знаят кой сте), за да работят. Това също означава, че LinkedIn може да следи всичко, което правите в тези сайтове.",
+    "description": "This is shown in the body of the panel pop up when the user is on LinkedIn."
+  },
+  "notOnLinkedInHeader": {
+    "message": "$URL$ не е във LinkedIn Container.",
+    "description": "This is shown at the top of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.google.com"
+      }
+    }
+  },
+  "notOnLinkedInText": {
+    "message": "Този сайт е извън LinkedIn Container ви. За LinkedIn ще е по-трудно да ви следи в мрежата.",
+    "description": "This is shown in the body of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "onUnknownSiteHeader": {
+    "message": "Този сайт не е във LinkedIn Container.",
+    "description": "This is shown at the top of the panel pop-up when the user is on an \"unknown\" website - e.g., about:newtab. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "facebookContainer": {
+    "message": "LinkedIn Container",
+    "description": "This is the name of the extension, and appears at the top of all onboarding panels. Please do not translate \"LinkedIn Container\"."
+  },
+  "onboarding1-subhead": {
+    "message": "Използване на LinkedIn Container",
+    "description": "This is the subhead of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding1-p1": {
+    "message": "LinkedIn може да проследи какво разглеждате далеч отвъд LinkedIn.com. Бутоните за харесване и споделяне на LinkedIn, например, могат да проследят къде сте били – дори на страници, които никога не харесвате или споделяте.",
+    "description": "This is the first paragraph of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding1-p2": {
+    "message": "LinkedIn Container създава граница между сайтовете на LinkedIn и останалата част от мрежата. За LinkedIn ще е по-трудно да ви проследява онлайн.",
+    "description": "Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding2-subhead": {
+    "message": "Във LinkedIn и сайтове разделени от LinkedIn Container",
+    "description": "This is the subhead for the second onboarding panel. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding2-alt": {
+    "message": "Икона на LinkedIn Container",
+    "description": "This is alternative text for the icon in the second onboarding panel"
+  },
+  "onboarding2-p1": {
+    "message": "Тази икона се появява в адресната лента на Firefox, когато посещавате сайтове, като LinkedIn.com, които са разделени от LinkedIn Container.",
+    "description": "This is the first paragraph of the second onboarding panel."
+  },
+  "onboarding2-p2": {
+    "message": "Тези сайтове трябва да имат достъп до вашата самоличност във LinkedIn (или да знаят кой сте), за да работят. Това също означава, че LinkedIn може да следи всичко, което правите в тези сайтове.",
+    "description": "This is the second paragraph of the second onboarding panel. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding4-subhead": {
+    "message": "Извън LinkedIn",
+    "description": "This is the subhead for the fourth onboarding panel."
+  },
+  "onboarding4-p1": {
+    "message": "Дори когато не сте във LinkedIn, LinkedIn може да ви следи онлайн. Бутоните, които ви позволяват да публикувате неща във LinkedIn или да влизате в уебсайтове, използвайки вашия профил във LinkedIn, съдържат проследяващи програми. LinkedIn Container ще ги блокира и ще покаже иконата си, за да ви покаже къде са премахнати.",
+    "description": "This is the first paragraph of the fourth onboarding panel."
+  },
+  "onboarding4-img": {
+    "message": "Това изображение демонстрира как иконата на LinkedIn Container ще се появи на страницата до бутона за харесване във LinkedIn.",
+    "description": "This is alternative text for the image shown in the fourth onboarding panel."
+  },
+  "onboarding5-subhead": {
+    "message": "Влизане чрез LinkedIn в други сайтове",
+    "description": "This is the subhead for the fifth onboarding panel."
+  },
+  "onboarding5-p1": {
+    "message": "За да използвате влизане чрез LinkedIn на други сайтове, ще трябва да ги преместите във LinkedIn Container. Щракнете върху иконата и изберете „Разрешаване на сайт във LinkedIn Container“ в долната част.",
+    "description": "This is the first paragraph of the fifth onboarding panel."
+  },
+  "onboarding5-img": {
+    "message": "Това изображение демонстрира как бутонът за добавяне на сайт към LinkedIn Container ще се появи в панела.",
+    "description": "This is alternative text for the image shown in the fifth onboarding panel."
+  },
+  "onboarding5-p2": {
+    "message": "Това ви позволява да влезете с LinkedIn, но позволява на LinkedIn да проследява активността ви на този сайт.",
+    "description": "This is the second paragraph on the fifth onboarding panel."
+  },
+  "btn-allow": {
+    "message": "Разрешаване",
+    "description": "This is a button to allows users to whitelist the domain, adding it to the LinkedIn container."
+  },
+  "btn-cancel": {
+    "message": "Отказ",
+    "description": "This is a button to cancel out of the onboarding panel."
+  },
+  "btn-next": {
+    "message": "Напред",
+    "description": "This is a button to continue to the next onboarding panel."
+  },
+  "btn-back": {
+    "message": "Назад",
+    "description": "This is a button that returns the user to the previous onboarding panel."
+  },
+  "btn-done": {
+    "message": "Готово",
+    "description": "This is a button the user clicks to close out the panel when they have finished reading the text."
+  },
+  "btn-arrow-back": {
+    "message": "Назад към предишен панел.",
+    "description": "This is alternative text for the back arrow button."
+  },
+  "btn-arrow-forward": {
+    "message": "Отидете към информацията \"Как работи LinkedIn Container\"",
+    "description": "This is alternative text for the arrow icon next to the \"How LinkedIn Container Works\" link"
+  },
+  "no-trackers-subhead": {
+    "message": "Не са открити програми за проследяване от LinkedIn",
+    "description": ""
+  },
+  "no-trackers-p1": {
+    "message": "LinkedIn Container не откри никакви програми за проследяване от LinkedIn на тази страница. Страницата обаче все още може да съдържа други видове такива.",
+    "description": ""
+  },
+  "learn-more": {
+    "message": "Научете повече",
+    "description": "This is a link that opens a page with more information about LinkedIn Container."
+  },
+  "how-fbc-works": {
+    "message": "Как работи LinkedIn Container",
+    "description": "This is a button that opens the LinkedIn Container onboarding flow."
+  },
+  "trackers-detected-subhead": {
+    "message": "Ние ви защитихме от LinkedIn.",
+    "description": "This is a subhead, and it means that the add on has protected the user by blocking LinkedIn trackers."
+  },
+  "trackers-detected-p1": {
+    "message": "Бутоните на LinkedIn, които се показват в сайтове за пазаруване, новини и други такива, съдържат проследяващи елементи, които казват на LinkedIn къде сте били в мрежата. Дори ако никога не използвате тези бутони, за да харесате или споделите, те пак могат да събират данни за това какво разглеждате. LinkedIn Container ги спира.",
+    "description": ""
+  },
+  "trackers-detected-p2": {
+    "message": "LinkedIn Container блокира тези проследяващи програми. Въпреки това, ако щракнете върху някой от тези бутони, LinkedIn ще може да ви проследи.",
+    "description": ""
+  },
+  "trackers-detected-fence-alt": {
+    "message": "LinkedIn Container, защитена със щит.",
+    "description": "This is alternative text describing the container fence icon."
+  },
+  "sites-added-subhead": {
+    "message": "Разрешени сайтове във LinkedIn Container",
+    "description": "This is a panel subhead."
+  },
+  "sites-included": {
+    "message": "ВКЛЮЧЕНИ САЙТОВЕ",
+    "description": "This is a header for the list of websites that are in the LinkedIn Container by default. Capitalized letters are preferred if that makes sense/is feasible for the language."
+  },
+  "no-sites-added": {
+    "message": "Няма",
+    "description": "This message is shown beneath the 'SITES YOU’VE ALLOWED' list header when no sites have been added to the contaner."
+  },
+  "sites-allowed": {
+    "message": "САЙТОВЕ, КОИТО СТЕ РАЗРЕШИЛИ",
+    "description": "This is the header for the list of sites the user has manually added into the LinkedIn Container. Capitalized letters are preferred if that makes sense/is feasible for the lanaguage."
+  },
+  "sites-added-p1": {
+    "message": "LinkedIn Container поставя сайтове, притежавани от LinkedIn, зад заграждение. Можете да добавите и други сайтове там, но това ще позволи на LinkedIn да проследява повече от вашето сърфиране в мрежата."
+  },
+  "remove": {
+    "message": "Премахване",
+    "description": ""
+  },
+  "button-allow-site": {
+    "message": "Разрешаване на сайт във LinkedIn Container",
+    "description": "Button text that allows sites to be added to the LinkedIn Container"
+  },
+  "button-remove-site": {
+    "message": "Премахване на сайта от LinkedIn Container",
+    "description": "Button text that removes an already-added site from the LinkedIn Container to the default container"
+  },
+  "button-remove-site-tooltip": {
+    "message": "Тъй като това е сайт, собственост на LinkedIn, той не може да бъде премахнат от LinkedIn Container.",
+    "description": "Tooltip that is displayed when hovering over the remove site button"
+  },
+  "remove-site-subhead": {
+    "message": "Премахване на сайта от LinkedIn Container?",
+    "description": ""
+  },
+  "remove-site-p1": {
+    "message": "Премахването на този сайт от LinkedIn Container означава, че функцията за влизане с LinkedIn вече няма да работи и бисквитките за проследяване на LinkedIn ще бъдат изтрити.",
+    "description": ""
+  },
+  "remove-site-p2": {
+    "message": " Ако искате отново да използвате \"вход чрез LinkedIn\", ще трябва да го добавите обратно към LinkedIn Container.",
+    "description": ""
+  },
+  "add-site-subhead": {
+    "message": "Разрешаване на LinkedIn проследяване на този сайт?",
+    "description": ""
+  },
+  "add-site-p1": {
+    "message": "Това ви позволява да влезете с LinkedIn, но и позволява на LinkedIn да следи какво правите на този сайт.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-share": {
+    "message": "LinkedIn Container деактивира този бутон и блокира проследяването на посещението ви на тази страница от LinkedIn.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-login": {
+    "message": "LinkedIn Container блокира LinkedIn проследяването. Ако използвате \"Вход със LinkedIn\" на този сайт, LinkedIn ще може да ви проследява.",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-p1": {
+    "message": "Разрешаване на LinkedIn да ви следи тук?",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-p2": {
+    "message": "Ако искате да използвате влизане с LinkedIn, тогава LinkedIn ще може да проследява активността ви на този сайт. Това може да им помогне да изградят по-пълна картина на вашия онлайн живот.",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-checkbox": {
+    "message": "Спиране на този въпрос",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-share-passive": {
+    "message": "Ако щракнете върху този бутон, LinkedIn ще може да проследи посещението ви на този сайт.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-email": {
+    "message": "Ако използвате истинския си имейл адрес тук, LinkedIn може да успее да ви проследи. Кликнете, за да научите повече.",
+    "description": ""
+  },
+  "inPageUI-tooltip-email-prompt-p1": {
+    "message": "Разрешаване на LinkedIn да ви следи тук?",
+    "description": ""
+  },
+  "inPageUI-tooltip-email-prompt-p2": {
+    "message": "Този сайт може да споделя вашия имейл адрес с LinkedIn, което позволява на LinkedIn да ви проследява. Използвайте услуга като Firefox Relay, за да скриете истинския си имейл адрес.",
+    "description": ""
+  },
+  "btn-relay-dismiss": {
+    "message": "Отхвърляне",
+    "description": ""
+  },
+  "btn-relay-try": {
+    "message": "Опитайте Firefox Relay",
+    "description": ""
+  }
+}

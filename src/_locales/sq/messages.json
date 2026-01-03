@@ -1,0 +1,268 @@
+{
+  "extensionDescription": {
+    "message": "LinkedIn Container izolon veprimtarinë tuaj në LinkedIn nga pjesa tjetër e veprimtarisë tuaj në internet, për të penguar LinkedIn-un t’ju ndjekë jashtë sajtit LinkedIn përmes cookie-sh palësh të treta.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "in-fbc-subhead": {
+    "message": "$URL$ gjendet nën një LinkedIn Container.",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.linkedin.com"
+      }
+    }
+  },
+  "in-fbc-p1": {
+    "message": "LinkedIn-u mund tani t’ju ndjekë në këtë sajt. Për ta hequr këtë sajt nga LinkedIn Container, përzgjidhni Sajte të Lejuar te LinkedIn Container dhe hiqeni prej liste."
+  },
+  "on-facebook-subhead": {
+    "message": "Mbi LinkedIn-un dhe Sajte në Vijën LinkedIn Container",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "on-facebook-p1": {
+    "message": "Kjo ikonë shfaqet te shtylla e adresave në Firefox, kur vizitoni sajte pronë e LinkedIn-ut ose sajte që i keni shtuar te LinkedIn Container.",
+    "description": "This is shown in the body of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "on-facebook-p2": {
+    "message": "Që të mund të funksionojnë, këtyre sajteve u duhet të hyjnë në identitetin tuaj LinkedIn (ose të dinë se cili jeni). Kjo do të thotë gjithashtu se LinkedIn-u mund të gjurmojë gjithçka që bëni në këto sajte.",
+    "description": "This is shown in the body of the panel pop up when the user is on LinkedIn."
+  },
+  "notOnLinkedInHeader": {
+    "message": "$URL$ s’gjendet te LinkedIn Container.",
+    "description": "This is shown at the top of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.google.com"
+      }
+    }
+  },
+  "notOnLinkedInText": {
+    "message": "Ky sajt gjendet jashtë LinkedIn Container-it. Ky e bën më të zorshme ndjekjen tuaj nëpër web nga LinkedIn-u.",
+    "description": "This is shown in the body of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "onUnknownSiteHeader": {
+    "message": "Ky sajt s’gjendet te LinkedIn Container.",
+    "description": "This is shown at the top of the panel pop-up when the user is on an \"unknown\" website - e.g., about:newtab. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "facebookContainer": {
+    "message": "LinkedIn Container",
+    "description": "This is the name of the extension, and appears at the top of all onboarding panels. Please do not translate \"LinkedIn Container\"."
+  },
+  "onboarding1-subhead": {
+    "message": "Si të Përdoret LinkedIn Container",
+    "description": "This is the subhead of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding1-p1": {
+    "message": "LinkedIn-u mund të gjurmojë shfletimin tuaj shumë më larg sesa në LinkedIn.com. Butonat LinkedIn për Pëlqim dhe Ndarje Me të Tjerë, për shembull, mund të gjurmojnë se ku keni qenë — madje edhe në faqe që s’i keni pëlqyer apo ndarë kurrë me njeri.",
+    "description": "This is the first paragraph of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding1-p2": {
+    "message": "LinkedIn Container krijon një vijë mes sajteve LinkedIn dhe pjesës tjetër të web-it, që kështu të jetë më e zorshme për LinkedIn-un t’ju ndjekë nëpër internet.",
+    "description": "Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding2-subhead": {
+    "message": "Mbi LinkedIn-un dhe Sajte në Vijën LinkedIn Container",
+    "description": "This is the subhead for the second onboarding panel. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding2-alt": {
+    "message": "Ikona e gardhit LinkedIn Container",
+    "description": "This is alternative text for the icon in the second onboarding panel"
+  },
+  "onboarding2-p1": {
+    "message": "Kjo ikonë shfaqe te shtylla e adresave në Firefox, kur vizitoni sajte, fjala vjen, LinkedIn.com, që gjenden në vijën LinkedIn Container.",
+    "description": "This is the first paragraph of the second onboarding panel."
+  },
+  "onboarding2-p2": {
+    "message": "Që të mund të funksionojnë, këtyre sajteve u duhet të hyjnë në identitetin tuaj LinkedIn (ose të dinë se cili jeni). Kjo do të thotë gjithashtu se LinkedIn-u mund të gjurmojë gjithçka që bëni në këto sajte.",
+    "description": "This is the second paragraph of the second onboarding panel. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding4-subhead": {
+    "message": "Jashtë LinkedIn-u",
+    "description": "This is the subhead for the fourth onboarding panel."
+  },
+  "onboarding4-p1": {
+    "message": "Edhe kur s’jeni në LinkedIn, LinkedIn-u mund t’ju gjurmojë në internet. Butonat që ju lejojnë të postoni gjëra në LinkedIn ose të bëni hyrje në sajte duke përdorur llogarinë tuaj LinkedIn përmbajnë gjurmues. LinkedIn Container do t’i bllokojë këta gjurmues dhe do të shfaqë ikonën gardh për t’ju treguar se ku janë hequr gjurmues.",
+    "description": "This is the first paragraph of the fourth onboarding panel."
+  },
+  "onboarding4-img": {
+    "message": "Kjo figurë demonstron se si do të shfaqet ikona gardh e LinkedIn Containers brenda faqes, përkrah një butoni Pëlqimesh në LinkedIn.",
+    "description": "This is alternative text for the image shown in the fourth onboarding panel."
+  },
+  "onboarding5-subhead": {
+    "message": "Hyrja Në Sajte të Tjerë Përmes LinkedIn-u",
+    "description": "This is the subhead for the fifth onboarding panel."
+  },
+  "onboarding5-p1": {
+    "message": "Që të përdorni hyrjen në sajte të tjerë me LinkedIn, do t’ju duhet t’i kaloni ato brenda kufirit. Klikoni ikonën gardh dhe përzgjidhni ‘Lejoje Sajtin në LinkedIn Container’ te fundi.",
+    "description": "This is the first paragraph of the fifth onboarding panel."
+  },
+  "onboarding5-img": {
+    "message": "Kjo figurë demonstron se si do të shfaqet te paneli butoni për shtim të një sajti te LinkedIn Container.",
+    "description": "This is alternative text for the image shown in the fifth onboarding panel."
+  },
+  "onboarding5-p2": {
+    "message": "Kjo ju lejon të hyni me LinkedIn, por i lejon LinkedIn-ut të ndjekë veprimtarinë tuaj në atë sajt.",
+    "description": "This is the second paragraph on the fifth onboarding panel."
+  },
+  "btn-allow": {
+    "message": "Lejoje",
+    "description": "This is a button to allows users to whitelist the domain, adding it to the LinkedIn container."
+  },
+  "btn-cancel": {
+    "message": "Anuloje",
+    "description": "This is a button to cancel out of the onboarding panel."
+  },
+  "btn-next": {
+    "message": "Pasuesi",
+    "description": "This is a button to continue to the next onboarding panel."
+  },
+  "btn-back": {
+    "message": "Mbrapsht",
+    "description": "This is a button that returns the user to the previous onboarding panel."
+  },
+  "btn-done": {
+    "message": "U bë",
+    "description": "This is a button the user clicks to close out the panel when they have finished reading the text."
+  },
+  "btn-arrow-back": {
+    "message": "Shko mbrapsht te paneli i mëparshëm.",
+    "description": "This is alternative text for the back arrow button."
+  },
+  "btn-arrow-forward": {
+    "message": "Kaloni te pjesa Si Funksionon LinkedIn Container",
+    "description": "This is alternative text for the arrow icon next to the \"How LinkedIn Container Works\" link"
+  },
+  "no-trackers-subhead": {
+    "message": "S’u Pikasën Gjurmues LinkedIn",
+    "description": ""
+  },
+  "no-trackers-p1": {
+    "message": "LinkedIn Container s’pikasi ndonjë gjurmues LinkedIn në këtë faqe. Megjithatë, faqja mundet prapë të përmbajë lloje të tjerë gjurmuesish.",
+    "description": ""
+  },
+  "learn-more": {
+    "message": "Mësoni më tepër",
+    "description": "This is a link that opens a page with more information about LinkedIn Container."
+  },
+  "how-fbc-works": {
+    "message": "Si Funksionon LinkedIn Container",
+    "description": "This is a button that opens the LinkedIn Container onboarding flow."
+  },
+  "trackers-detected-subhead": {
+    "message": "Ju kemi mbrojtur nga LinkedIn-u.",
+    "description": "This is a subhead, and it means that the add on has protected the user by blocking LinkedIn trackers."
+  },
+  "trackers-detected-p1": {
+    "message": "Butonat nga LinkedIn-u që shfaqen në sajte blerjesh, lajmesh, etj, përmbajnë gjurmues që i tregojnë LinkedIn-ut se ku keni qenë në web. Edhe pse s’i përdorni kurrë këta butona për të pëlqyer apo ndarë diçka me të tjerë, gjurmuesit prapëseprapë mund të grumbullojnë të dhëna rreth shfletimit tuaj. LinkedIn Container i bllokon këta gjurmues.",
+    "description": ""
+  },
+  "trackers-detected-p2": {
+    "message": "LinkedIn Container i bllokon këta gjurmues. Sidoqoftë, nëse klikoni në cilindo nga këta butona, LinkedIn-u do të jetë në gjendje t’ju ndjekë.",
+    "description": ""
+  },
+  "trackers-detected-fence-alt": {
+    "message": "Gardh LinkedIn Container me mburojë.",
+    "description": "This is alternative text describing the container fence icon."
+  },
+  "sites-added-subhead": {
+    "message": "Sajte të Lejuar në LinkedIn Container",
+    "description": "This is a panel subhead."
+  },
+  "sites-included": {
+    "message": "SAJTE TË PËRFSHIRË",
+    "description": "This is a header for the list of websites that are in the LinkedIn Container by default. Capitalized letters are preferred if that makes sense/is feasible for the language."
+  },
+  "no-sites-added": {
+    "message": "Asnjë",
+    "description": "This message is shown beneath the 'SITES YOU’VE ALLOWED' list header when no sites have been added to the contaner."
+  },
+  "sites-allowed": {
+    "message": "SAJTE QË KENI LEJUAR",
+    "description": "This is the header for the list of sites the user has manually added into the LinkedIn Container. Capitalized letters are preferred if that makes sense/is feasible for the lanaguage."
+  },
+  "sites-added-p1": {
+    "message": "LinkedIn Container i vendos brenda cakut sajtet pronë e LinkedIn-ut. Mund të lejoni sajte të tjerë brenda tij, por kjo do ta lejojë LinkedIn-un të gjurmojë më tepër nga shfletimi juaj."
+  },
+  "remove": {
+    "message": "Hiqe",
+    "description": ""
+  },
+  "button-allow-site": {
+    "message": "Lejo Sajt në LinkedIn Container",
+    "description": "Button text that allows sites to be added to the LinkedIn Container"
+  },
+  "button-remove-site": {
+    "message": "Hiqe Sajtin nga LinkedIn Container",
+    "description": "Button text that removes an already-added site from the LinkedIn Container to the default container"
+  },
+  "button-remove-site-tooltip": {
+    "message": "Ngaqë ky është një sajt pronë e LinkedIn-ut, s’mund të hiqet nga LinkedIn Container.",
+    "description": "Tooltip that is displayed when hovering over the remove site button"
+  },
+  "remove-site-subhead": {
+    "message": "Të hiqet sajti nga LinkedIn Container?",
+    "description": ""
+  },
+  "remove-site-p1": {
+    "message": "Heqja e këtij sajti nga LinkedIn Container do të thotë që Hyrja përmes llogarisë LinkedIn s’do të funksionojë më dhe cookie-t e gjurmimit nga LinkedIn-u do të fshihen.",
+    "description": ""
+  },
+  "remove-site-p2": {
+    "message": " Nëse doni të përdorni sërish Hyrje me LinkedIn, do t’ju duhet ta shtoni sërish te LinkedIn Container.",
+    "description": ""
+  },
+  "add-site-subhead": {
+    "message": "Të lejohet Gjurmimi Nga LinkedIn-u në këtë Sajt?",
+    "description": ""
+  },
+  "add-site-p1": {
+    "message": "Kjo ju lejon të hyni me LinkedIn, por i lejon LinkedIn-ut të ndjekë se ç’bëni në atë sajt.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-share": {
+    "message": "LinkedIn Container e ka çaktivizuar këtë buton dhe ia ka bllokuar LinkedIn-ut gjurmimin e vizitës tuaj në këtë faqe.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-login": {
+    "message": "LinkedIn Container i ka bllokuar gjurmuesit LinkedIn. Nëse përdorni Hyrje me LinkedIn në këtë sajt, LinkedIn-u do të jetë në gjendje t’ju gjurmojë.",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-p1": {
+    "message": "Të lejohet LinkedIn-u t’ju gjurmojë këtu?",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-p2": {
+    "message": "Nëse doni të përdorni hyrje me LinkedIn,  LinkedIn-u do të jetë në gjendje të gjurmojë veprimtarinë tuaj në këtë sajt. Kjo mund t’i ndihmojë ata të krijojnë një pamje më të plotë të jetës tuaj internetore.",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-checkbox": {
+    "message": "Mos ma shfaq më këtë",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-share-passive": {
+    "message": "Nëse klikoni këtë buton, LinkedIn-u do të jetë në gjendje të ndjekë vizitën tuaj në këtë sajt.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-email": {
+    "message": "Nëse këtu përdorni adresën tuaj të njëmendtë email, LinkedIn-u mund të jetë në gjendje t’ju gjurmojë. Klikoni që të mësoni më shumë.",
+    "description": ""
+  },
+  "inPageUI-tooltip-email-prompt-p1": {
+    "message": "Të lejohet LinkedIn-u t’ju gjurmojë këtu?",
+    "description": ""
+  },
+  "inPageUI-tooltip-email-prompt-p2": {
+    "message": "Ky sajt mund t’ia japë adresën tuaj email LinkedIn-ut, çka e lejon LinkedIn-un t’ju gjurmojë. Që të fshihni adresën tuaj email reale, përdorni një shërbim të tillë si Firefox Relay.",
+    "description": ""
+  },
+  "btn-relay-dismiss": {
+    "message": "Hidhe tej",
+    "description": ""
+  },
+  "btn-relay-try": {
+    "message": "Provoni Firefox Relay",
+    "description": ""
+  }
+}

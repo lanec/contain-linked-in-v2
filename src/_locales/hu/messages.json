@@ -1,0 +1,268 @@
+{
+  "extensionDescription": {
+    "message": "A LinkedIn Container elkülöníti a facebookos tevékenységét a többi webes tevékenységtől annak érdekében, hogy megakadályozza, hogy a LinkedIn a webhelyén kívül is követhesse Önt a harmadik féltől származó sütik révén.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "in-fbc-subhead": {
+    "message": "A(z) $URL$ a LinkedIn Containerben van.",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.linkedin.com"
+      }
+    }
+  },
+  "in-fbc-p1": {
+    "message": "A LinkedIn mostantól nyomon tudja követni Önt ezen az oldalon. Az oldal eltávolításához a LinkedIn Containerből válassza az engedélyezett webhelyek lehetőséget a LinkedIn Containerben, és távolítsa el a listáról."
+  },
+  "on-facebook-subhead": {
+    "message": "A LinkedInon és a LinkedIn Container által körülhatárolt webhelyeken",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "on-facebook-p1": {
+    "message": "Ez az ikon a Firefox címsorában jelenik meg, ha a LinkedIn tulajdonában lévő webhelyeket látogat meg, vagy olyan webhelyeket, melyeket a LinkedIn Containerhez adott.",
+    "description": "This is shown in the body of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "on-facebook-p2": {
+    "message": "Ezen webhelyek működéséhez hozzá kell férniük a LinkedIn-azonosítójához (vagy tudniuk kell, hogy ki Ön). Ez azt is jelenti, hogy a LinkedIn nyomon tudja követni mindazt, amit ezeken a webhelyeken tesz.",
+    "description": "This is shown in the body of the panel pop up when the user is on LinkedIn."
+  },
+  "notOnLinkedInHeader": {
+    "message": "A(z) $URL$ nincs a LinkedIn Containerben.",
+    "description": "This is shown at the top of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.google.com"
+      }
+    }
+  },
+  "notOnLinkedInText": {
+    "message": "Ez a webhely a LinkedIn Containeren kívül található. Ez megnehezíti a LinkedIn számára, hogy követhesse Önt a weben.",
+    "description": "This is shown in the body of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "onUnknownSiteHeader": {
+    "message": "Ez a webhely nem a LinkedIn Containerben található.",
+    "description": "This is shown at the top of the panel pop-up when the user is on an \"unknown\" website - e.g., about:newtab. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "facebookContainer": {
+    "message": "LinkedIn Container",
+    "description": "This is the name of the extension, and appears at the top of all onboarding panels. Please do not translate \"LinkedIn Container\"."
+  },
+  "onboarding1-subhead": {
+    "message": "A LinkedIn Container használata",
+    "description": "This is the subhead of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding1-p1": {
+    "message": "A LinkedIn közel sem csak a LinkedIn.com weboldalon tudja követni a böngészését. A LinkedIn Tetszik és Megosztás gombjai például bárhol nyomon követhetik, bárhová is megy – még akkor is, ha sosem használja ezeket a gombokat.",
+    "description": "This is the first paragraph of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding1-p2": {
+    "message": "A LinkedIn Container elhatárolja a facebookos oldalakat a web többi részétől, így megnehezíti a LinkedInnak az online nyomkövetést.",
+    "description": "Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding2-subhead": {
+    "message": "A LinkedInon és a LinkedIn Container által körülhatárolt webhelyeken",
+    "description": "This is the subhead for the second onboarding panel. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding2-alt": {
+    "message": "A LinkedIn Container kerítés ikonja",
+    "description": "This is alternative text for the icon in the second onboarding panel"
+  },
+  "onboarding2-p1": {
+    "message": "Ez az ikon a Firefox címsorában jelenik meg, ha olyan webhelyeket látogat meg, mint a LinkedIn.com, melyeket a LinkedIn Container elkülönít.",
+    "description": "This is the first paragraph of the second onboarding panel."
+  },
+  "onboarding2-p2": {
+    "message": "Ezen webhelyek működéséhez hozzá kell férniük a LinkedIn-azonosítójához (vagy tudniuk kell, hogy ki Ön). Ez azt is jelenti, hogy a LinkedIn nyomon tudja követni mindazt, amit ezeken a webhelyeken tesz.",
+    "description": "This is the second paragraph of the second onboarding panel. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding4-subhead": {
+    "message": "A LinkedInon kívül",
+    "description": "This is the subhead for the fourth onboarding panel."
+  },
+  "onboarding4-p1": {
+    "message": "Még akkor is, ha nincs a LinkedInon, a LinkedIn követheti Önt online. A gombok, amelyekkel közzétehet dolgokat a LinkedInon vagy bejelentkezhet weboldalakra, követőket tartalmaznak. A LinkedIn Container blokkolja ezeket a követőket, és egy kerítést ikont jelenít meg, hogy jelezze, hol távolított el követőket.",
+    "description": "This is the first paragraph of the fourth onboarding panel."
+  },
+  "onboarding4-img": {
+    "message": "Ez a kép azt mutatja, hogy a LinkedIn Container kerítés ikonja megjelenik az oldalon belül a LinkedIn Tetszik gombja mellett.",
+    "description": "This is alternative text for the image shown in the fourth onboarding panel."
+  },
+  "onboarding5-subhead": {
+    "message": "Bejelentkezés a LinkedInon keresztül más oldalakon",
+    "description": "This is the subhead for the fifth onboarding panel."
+  },
+  "onboarding5-p1": {
+    "message": "Ahhoz hogy a LinkedIn bejelentkezést használja más oldalakon, át kell helyeznie azokat a korláton belülre. Kattintson a kerítés ikonra, és válassza a „Webhely engedélyezése a LinkedIn Containerben” lehetőséget.",
+    "description": "This is the first paragraph of the fifth onboarding panel."
+  },
+  "onboarding5-img": {
+    "message": "Ez a kép bemutatja, hogyan jelenik meg a panelen egy webhely LinkedIn Containerhez hozzáadásának gombja.",
+    "description": "This is alternative text for the image shown in the fifth onboarding panel."
+  },
+  "onboarding5-p2": {
+    "message": "Ezzel lehetővé válik a LinkedInkal történő bejelentkezés, de így a LinkedIn képes követni a tevékenységét az oldalon.",
+    "description": "This is the second paragraph on the fifth onboarding panel."
+  },
+  "btn-allow": {
+    "message": "Engedélyezés",
+    "description": "This is a button to allows users to whitelist the domain, adding it to the LinkedIn container."
+  },
+  "btn-cancel": {
+    "message": "Mégse",
+    "description": "This is a button to cancel out of the onboarding panel."
+  },
+  "btn-next": {
+    "message": "Tovább",
+    "description": "This is a button to continue to the next onboarding panel."
+  },
+  "btn-back": {
+    "message": "Vissza",
+    "description": "This is a button that returns the user to the previous onboarding panel."
+  },
+  "btn-done": {
+    "message": "Kész",
+    "description": "This is a button the user clicks to close out the panel when they have finished reading the text."
+  },
+  "btn-arrow-back": {
+    "message": "Visszaugrás az előző panelre.",
+    "description": "This is alternative text for the back arrow button."
+  },
+  "btn-arrow-forward": {
+    "message": "Ugrás ide: Hogyan működik a LinkedIn Container",
+    "description": "This is alternative text for the arrow icon next to the \"How LinkedIn Container Works\" link"
+  },
+  "no-trackers-subhead": {
+    "message": "Nem találhatóak facebookos nyomkövetők",
+    "description": ""
+  },
+  "no-trackers-p1": {
+    "message": "A LinkedIn Container nem talált facebookos nyomkövetőt ezen az oldalon. Viszont az oldal tartalmazhat más típusú nyomkövetőket is.",
+    "description": ""
+  },
+  "learn-more": {
+    "message": "További tudnivalók",
+    "description": "This is a link that opens a page with more information about LinkedIn Container."
+  },
+  "how-fbc-works": {
+    "message": "Hogyan működik a LinkedIn Container",
+    "description": "This is a button that opens the LinkedIn Container onboarding flow."
+  },
+  "trackers-detected-subhead": {
+    "message": "Megvédtük Önt a LinkedIntól.",
+    "description": "This is a subhead, and it means that the add on has protected the user by blocking LinkedIn trackers."
+  },
+  "trackers-detected-p1": {
+    "message": "A vásárló-, hír- és más oldalakon megjelenő LinkedIn gombok olyan nyomkövetőket tartalmaznak, amelyek megmondják a LinkedInnak, hogy hol volt az interneten. Még akkor is, ha sose használja ezeket a gombokat, hogy tetszését fejezze ki vagy tartalmakat osszon meg, a nyomkövetők akkor is böngészési adatokat gyűjthetnek. A LinkedIn Container blokkolja ezeket a nyomkövetőket.",
+    "description": ""
+  },
+  "trackers-detected-p2": {
+    "message": "A LinkedIn Container blokkolja ezeket a nyomkövetőket. Viszont ha bármelyik gombra kattint, akkor a LinkedIn továbbra is képes lesz nyomon követni Önt.",
+    "description": ""
+  },
+  "trackers-detected-fence-alt": {
+    "message": "LinkedIn Container kerítés pajzzsal.",
+    "description": "This is alternative text describing the container fence icon."
+  },
+  "sites-added-subhead": {
+    "message": "A LinkedIn Containerben engedélyezett webhelyek",
+    "description": "This is a panel subhead."
+  },
+  "sites-included": {
+    "message": "HATÁROLT OLDALOK",
+    "description": "This is a header for the list of websites that are in the LinkedIn Container by default. Capitalized letters are preferred if that makes sense/is feasible for the language."
+  },
+  "no-sites-added": {
+    "message": "Nincs",
+    "description": "This message is shown beneath the 'SITES YOU’VE ALLOWED' list header when no sites have been added to the contaner."
+  },
+  "sites-allowed": {
+    "message": "ENGEDÉLYEZETT OLDALAK",
+    "description": "This is the header for the list of sites the user has manually added into the LinkedIn Container. Capitalized letters are preferred if that makes sense/is feasible for the lanaguage."
+  },
+  "sites-added-p1": {
+    "message": "A LinkedIn Container a LinkedIn tulajdonában lévő webhelyeket a határon belül helyezi el. Ön több oldalt is elhelyezhet a határon belül, de ez lehetővé teszi a LinkedIn számára, hogy nagyobb mértékben kövesse a webböngészést."
+  },
+  "remove": {
+    "message": "Eltávolítás",
+    "description": ""
+  },
+  "button-allow-site": {
+    "message": "Webhely engedélyezése a LinkedIn Containerben",
+    "description": "Button text that allows sites to be added to the LinkedIn Container"
+  },
+  "button-remove-site": {
+    "message": "Webhely eltávolítása a LinkedIn Containerből",
+    "description": "Button text that removes an already-added site from the LinkedIn Container to the default container"
+  },
+  "button-remove-site-tooltip": {
+    "message": "Mivel ez egy a LinkedIn tulajdonában lévő webhely, ezért nem távolítható el a LinkedIn Containerből.",
+    "description": "Tooltip that is displayed when hovering over the remove site button"
+  },
+  "remove-site-subhead": {
+    "message": "Eltávolítja a webhelyet a LinkedIn Containerből?",
+    "description": ""
+  },
+  "remove-site-p1": {
+    "message": "A webhely eltávolítása a LinkedIn Containerből azt jelenti, hogy a LinkedIn azonosítóval történő bejelentkezés többé már nem fog működni, és a LinkedIn nyomkövető sütijei törlődnek.",
+    "description": ""
+  },
+  "remove-site-p2": {
+    "message": " Ha újra szeretné használni a facebookos bejelentkezést, akkor újra hozzá kell adnia a LinkedIn Containerhez.",
+    "description": ""
+  },
+  "add-site-subhead": {
+    "message": "Engedélyezi, hogy a LinkedIn kövesse ezen a webhelyen?",
+    "description": ""
+  },
+  "add-site-p1": {
+    "message": "Ezzel lehetővé válik a LinkedInkal történő bejelentkezés, de így a LinkedIn képes követni, hogy mit tesz az oldalon.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-share": {
+    "message": "A LinkedIn Container letiltotta ezt a gombot, és blokkolta a LinkedInot a látogatásának nyomon követésében.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-login": {
+    "message": "A LinkedIn Container letiltotta a facebookos nyomkövetőket. Ha ezen a webhelyen facebookos bejelentkezést használ, akkor a LinkedIn képes lesz nyomon követni Önt.",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-p1": {
+    "message": "Hagyja, hogy a LinkedIn követhesse Önt itt?",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-p2": {
+    "message": "Ha a facebookos bejelentkezést szeretné használni, akkor a LinkedIn nyomon tudja követni tevékenységét ezen az oldalon. Ez segíthet nekik, hogy teljesebb képet alkossanak az Ön online életéről.",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-checkbox": {
+    "message": "Ne mutassa ezt újra",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-share-passive": {
+    "message": "Ha rákattint erre a gombra, akkor a LinkedIn nyomon tudja követni, hogy mikor keresi fel az oldalt.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-email": {
+    "message": "Ha a valódi e-mail címét használja itt, akkor a LinkedIn képes lehet nyomon követni Önt. Kattintson a további információkért.",
+    "description": ""
+  },
+  "inPageUI-tooltip-email-prompt-p1": {
+    "message": "Hagyja, hogy a LinkedIn követhesse Önt itt?",
+    "description": ""
+  },
+  "inPageUI-tooltip-email-prompt-p2": {
+    "message": "Ez a webhely megoszthatja e-mail címét a LinkedInkal, amely lehetővé teszi a LinkedIn számára, hogy nyomon kövesse Önt. A valós e-mail-címe elrejtéséhez használjon egy olyan szolgáltatást, mint a Firefox Relay.",
+    "description": ""
+  },
+  "btn-relay-dismiss": {
+    "message": "Elvetés",
+    "description": ""
+  },
+  "btn-relay-try": {
+    "message": "Próbálja ki a Firefox Relayt",
+    "description": ""
+  }
+}

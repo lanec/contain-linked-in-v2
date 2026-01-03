@@ -1,0 +1,12 @@
+dist: xenial
+services:
+    - xvfb
+addons:
+    firefox: latest
+language: node_js
+node_js:
+    - "lts/*"
+cache: npm
+notifications:
+    irc:
+        - "ircs://irc.mozilla.org:6697/#testpilot-containers-bots"

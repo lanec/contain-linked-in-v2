@@ -1,0 +1,120 @@
+{
+  "extensionDescription": {
+    "message": "LinkedIn Container आपल्या LinkedIn क्रियाकलापांना आपल्या उर्वरित वेब क्रियाकलापांपासून वेगळे करते जेणेकरून LinkedIn वेबसाइटच्या बाहेर आपल्याला तृतीय पक्षाच्या कुकीजद्वारे मागोवा घेण्यापासून रोखू शकेल.", 
+    "description": "Description of the extension. DO NOT TRANSLATE \"LinkedIn Container\"."
+  }, 
+  "notOnLinkedInHeader": {
+    "message": "$URL$ LinkedIn Container मध्ये नाही.", 
+    "description": "This is shown at the top of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".", 
+    "placeholders": {
+      "url": {
+        "content": "$1", 
+        "example": "www.google.com"
+      }
+    }
+  }, 
+  "notOnLinkedInText": {
+    "message": "ही साइट LinkedIn Container च्या बाहेर आहे. ह्याने आपल्याला वेबवर ट्रॅक करण्यास LinkedIn साठी कठीण होते.", 
+    "description": "This is shown in the body of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  }, 
+  "onUnknownSiteHeader": {
+    "message": "ही साइट LinkedIn Container मध्ये नाही.", 
+    "description": "This is shown at the top of the panel pop-up when the user is on an \"unknown\" website - e.g., about:newtab. DO NOT TRANSLATE \"LinkedIn Container\"."
+  }, 
+  "facebookContainer": {
+    "message": "LinkedIn कंटेनर", 
+    "description": "This is the name of the extension, and appears at the top of all onboarding panels. Please do not translate \"LinkedIn Container\"."
+  }, 
+  "onboarding1-subhead": {
+    "message": "LinkedIn कंटेनर वापरणे", 
+    "description": "This is the subhead of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  }, 
+  "onboarding2-alt": {
+    "message": "LinkedIn कंटेनर कुंपण चिन्ह", 
+    "description": "This is alternative text for the icon in the second onboarding panel"
+  }, 
+  "onboarding3-subhead": {
+    "message": "LinkedIn कंटेनर कार्य करीत आहे हे मला कसे कळेल?", 
+    "description": "This is the subhead for the third onboarding panel."
+  }, 
+  "btn-allow": {
+    "message": "सहमती द्या", 
+    "description": "This is a button to allows users to whitelist the domain, adding it to the LinkedIn container."
+  }, 
+  "btn-cancel": {
+    "message": "रद्द करा", 
+    "description": "This is a button to cancel out of the onboarding panel."
+  }, 
+  "btn-next": {
+    "message": "पुढे", 
+    "description": "This is a button to continue to the next onboarding panel."
+  }, 
+  "btn-back": {
+    "message": "मागे", 
+    "description": "This is a button that returns the user to the previous onboarding panel."
+  }, 
+  "btn-done": {
+    "message": "झाले", 
+    "description": "This is a button the user clicks to close out the panel when they have finished reading the text."
+  }, 
+  "btn-arrow-back": {
+    "message": "आधीच्या पॅनल वर जाण्यासाठी मागे जा.", 
+    "description": "This is alternative text for the back arrow button."
+  }, 
+  "btn-arrow-forward": {
+    "message": "LinkedIn कंटेनर कसे कार्य करते यावर जा", 
+    "description": "This is alternative text for the arrow icon next to the \"How LinkedIn Container Works\" link"
+  }, 
+  "no-trackers-subhead": {
+    "message": "कोणतेही LinkedIn ट्रॅकर आढळले नाहीत", 
+    "description": ""
+  }, 
+  "learn-more": {
+    "message": "अधिक जाणा", 
+    "description": "This is a link that opens a page with more information about LinkedIn Container."
+  }, 
+  "how-fbc-works": {
+    "message": "LinkedIn कंटेनर कसे कार्य करते", 
+    "description": "This is a button that opens the LinkedIn Container onboarding flow."
+  }, 
+  "trackers-detected-subhead": {
+    "message": "आम्ही LinkedIn पासून आपले रक्षण केले आहे.", 
+    "description": "This is a subhead, and it means that the add on has protected the user by blocking LinkedIn trackers."
+  }, 
+  "trackers-detected-fence-alt": {
+    "message": "ढाल सह LinkedIn कंटेनर कुंपण.", 
+    "description": "This is alternative text describing the container fence icon."
+  }, 
+  "sites-added-subhead": {
+    "message": "LinkedIn कंटेनरमध्ये अनुमत साइट", 
+    "description": "This is a panel subhead."
+  }, 
+  "sites-included": {
+    "message": "SITES INCLUDED", 
+    "description": "This is a header for the list of websites that are in the LinkedIn Container by default. Capitalized letters are preferred if that makes sense/is feasible for the language."
+  }, 
+  "no-sites-added": {
+    "message": "काहीच नाही", 
+    "description": "This message is shown beneath the 'SITES YOU’VE ALLOWED' list header when no sites have been added to the contaner."
+  }, 
+  "sites-allowed": {
+    "message": "आपण परवानगी दिलेल्या साइट्स", 
+    "description": "This is the header for the list of sites the user has manually added into the LinkedIn Container. Capitalized letters are preferred if that makes sense/is feasible for the lanaguage."
+  }, 
+  "remove": {
+    "message": "काढा", 
+    "description": ""
+  }, 
+  "remove-site-subhead": {
+    "message": "LinkedIn कंटेनरमधून साइट काढायची?", 
+    "description": ""
+  }, 
+  "inPageUI-tooltip-prompt-p1": {
+    "message": "आपल्याला येथे ट्रॅक करण्यास LinkedIn ला अनुमती द्यावी?", 
+    "description": ""
+  }, 
+  "inPageUI-tooltip-prompt-checkbox": {
+    "message": "हे परत दाखवू नका", 
+    "description": ""
+  }
+}

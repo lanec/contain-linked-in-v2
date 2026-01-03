@@ -1,0 +1,354 @@
+body {
+  --fbc-blue-60: #0060df;
+  --fbc-blue-70: #003eaa;
+  --fbc-gray-20: #ededf0;
+  --fbc-light-gray: #F0F0F4;
+  --fbc-white: #ffffff;
+  --fbc-transition: all .15s cubic-bezier(.07,.95,0,1);
+  --fbc-borders: 1px solid #ededf0;
+  --fbc-primary-text: #15141A;
+  --fbc-secondary-text: #5B5B66;
+  --fbc-font-size: 13px;
+}
+
+.lic-container {
+  font-size: var(--fbc-font-size);
+  font-weight: 400;
+  color: var(--fbc-primary-text);
+  background: var(--fbc-white);
+  font-family: "SF Pro Text", 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+/* Button Replacement */
+.lic-loginButton {
+	background-size: contain;
+	background-position: center;
+	background-repeat: none;
+	cursor: pointer;
+}
+
+.lic-loginButton.lic-size-large.lic-button-type-continue_with {
+	height: 40px;
+	width: 252px;
+	background-image: url(/img/login_continue_large.png);
+}
+
+.lic-loginButton.lic-size-medium.lic-button-type-continue_with {
+	height: 28px;
+	width: 180px;
+	background-image: url(/img/login_continue_medium.png);
+}
+
+.lic-loginButton.lic-size-small.lic-button-type-continue_with {
+	height: 20px;
+	width: 154px;
+	background-image: url(/img/login_continue_small.png);
+}
+
+.lic-loginButton.lic-size-large.lic-button-type-login_width {
+	height: 40px;
+	width: 236px;
+	background-image: url(/img/login_login_large.png);
+}
+
+.lic-loginButton.lic-size-medium.lic-button-type-login_width {
+	height: 28px;
+	width: 166px;
+	background-image: url(/img/login_login_medium.png);
+}
+
+.lic-loginButton.lic-size-small.lic-button-type-login_width {
+	height: 20px;
+	width: 62px;
+	background-image: url(/img/login_login_small.png);
+}
+
+/* Overlay */
+
+.lic-badge {
+	all: initial;
+	position: absolute;
+	z-index: 100;
+	transition: opacity 0.2s ease-out;
+	--fbc-transition: all .15s cubic-bezier(.07,.95,0,1)
+}
+
+.lic-badge.lic-badge-disabled {
+	display: none;
+	visibility: hidden;
+	opacity: 0;
+}
+
+.lic-badge-fence {
+	display: block;
+	box-shadow: 0 0 0 1px rgba(0, 0, 0, .15);
+	background-position: center center;
+	background-size: 16px auto, 100%;
+	background-image: url(/img/fence-large.svg), linear-gradient(-45deg, #6200A4, #D70022);
+	background-repeat: no-repeat;
+	border-radius: 100%;
+	width: 28px;
+	height: 28px;
+	padding: 0;
+	border: 1px solid white;
+	cursor: pointer;
+}
+
+.lic-badge.lic-badge-small .lic-badge-fence {
+	background-size: 7px auto, 100%;
+	background-image: url(/img/fence-small.svg), linear-gradient(-45deg, #6200A4, #D70022);
+	width: 17px;
+	height: 17px;
+}
+
+.lic-badge.lic-badge-fixed {
+	position: fixed;
+}
+
+.lic-badge:hover .lic-badge-tooltip {
+	display: block;
+}
+
+.lic-badge-share.lic-badge-tooltip-active .lic-badge-tooltip {
+	display: block;
+}
+
+.lic-badge.active:hover .lic-badge-tooltip {
+	display: none;
+}
+
+.lic-badge.active .lic-badge-prompt {
+	display: block;
+}
+
+.lic-badge-share-passive:hover {
+	display: block;
+	visibility: visible;
+	opacity: 1;
+}
+
+/* Only show first Share badge   */
+.lic-badge-share-passive, .lic-badge-share-passive.lic-badge-share:not(.lic-badge-disabled), .lic-badge-share.lic-badge-disabled, .lic-badge-share:not(.lic-badge-disabled):not(.lic-badge-tooltip-active) ~ .lic-badge-share:not(.lic-badge-disabled):not(.lic-badge-tooltip-active) {
+	display: none;
+	visibility: hidden;
+	opacity: 0;
+}
+
+.lic-badge-share:not(.lic-badge-disabled), .lic-badge-share.lic-badge-tooltip-active:not(.lic-badge-disabled) {
+	display: block;
+	visibility: visible;
+	opacity: 1;
+}
+
+.lic-wrapper{
+	position: fixed;
+	height: 100%;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	width: 100%;
+	z-index: 999999999999;
+	background-color: rgba(0, 0, 0, 0.1);
+}
+
+.lic-wrapper iframe {
+	color: var(--black);
+	box-shadow: 0 5px 12px 0 rgba(0,0,0,0.2);
+	border: 1px solid rgba(0,0,0,0.2);
+	background: var(--fbc-white);
+	border-radius: 8px;
+	line-height: 120%;
+}
+
+.lic-iframe-chevron {
+	width: 0; 
+	height: 0; 
+	border-top: 10px solid transparent;
+	border-bottom: 10px solid transparent; 
+	border-right:10px solid rgb(255, 255, 255); 
+	position: absolute;
+	left: 1px;
+	z-index: 9999999;
+}
+
+.lic-chevron-arrow-right {
+	transform: rotate(180deg);
+	left: -1px;
+}
+
+.lic-chevron-arrow-top {
+	transform: rotate(90deg);
+	top: -4px;
+}
+
+.lic-badge-prompt-align-right iframe {
+	left: auto;
+	right: calc( 100% + 20px);
+}
+
+.lic-badge-prompt-align-right iframe {
+	left: auto;
+	right: -10px;
+	border-width: 10px 0 10px 10px;
+}
+
+.lic-badge-prompt-align-top iframe {
+	top: -7px;
+	transform: none;
+}
+
+.lic-badge-prompt-align-top iframe:after {
+	top: 16px;
+}
+
+.lic-badge-prompt-align-bottom iframe {
+	top: auto;
+	bottom: -20px;
+	transform: none;
+}
+
+.lic-badge-prompt-align-bottom iframe:after {
+	display: none;
+}
+
+.lic-badge-prompt h1, .lic-title {
+	all: unset;
+	letter-spacing: -0.1px;
+	font-family: "SF Pro Text", 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+	font-size: 13px;
+	font-weight: 700;
+	display: flex;
+	width: 100%;
+	margin: 0;
+	line-height: 0;
+	padding: 15px 0 20px 0;
+	border-bottom: 1px solid var(--fbc-light-gray);
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	color: var(--fbc-primary-text);
+}
+
+.lic-badge-prompt p {
+	line-height: 140%;
+}
+
+.lic-subtitle-login, .lic-subtitle-email {
+	color: var(--fbc-primary-text);
+	font-weight: 500;
+}
+
+.lic-badge-prompt-contents {
+	padding: 4px 8px;
+	background: var(--fbc-white);
+}
+
+.lic-badge-prompt form {
+	all: unset;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+}
+
+.lic-badge-prompt-dontShowAgain-checkbox {
+	gap: 8px;
+	margin-bottom: 16px;
+}
+
+.lic-badge-prompt input[type=checkbox] {
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	-o-appearance: none;
+	appearance: none;
+	margin: 0;
+	background-color: var(--fbc-light-gray);
+	border: 1px solid #8F8F9D;
+	border-radius: 2px;
+	height: 13px;
+	width: 13px;
+	line-height: 14px;
+	cursor: pointer;
+}
+
+.lic-badge-prompt input[type=checkbox]:checked {
+	appearance: checkbox;
+}
+
+.lic-badge-prompt label {
+	color: var(--fbc-secondary-text);
+	margin: 0;
+	cursor: pointer;
+}
+
+.lic-badge-prompt-dontShowAgain-checkbox {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+}
+
+.lic-badge-prompt-buttons {
+	width: 100%;
+	z-index: 0;
+	display: flex;
+	gap: 8px;
+	justify-content: end;
+}
+
+.lic-badge-prompt-buttons button {
+	font-family: "SF Pro Text", 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+	display: inline-block;
+	width: auto;
+	padding: 8px 16px;
+	border-radius: 4px;
+	appearance: none;
+	border: 0;
+	font-size: 13px;
+	font-weight: 500;
+	color: var(--fbc-primary-text);
+	background: var(--fbc-light-gray);
+	transition: var(--fbc-transition);
+	cursor: pointer;
+	text-align: center;
+}
+
+.lic-badge-prompt-buttons button:focus {
+	border-top: 1px solid #cfcfd8;
+}
+
+.lic-badge-prompt-buttons button:hover {
+	background: #E9E9E9;
+}
+
+/* Tooltip */
+.lic-badge-tooltip {
+	display: none;
+	padding: 5px 10px 10px;
+	width: 250px;
+	max-width: 250px;
+	background: var(--fbc-white);
+	z-index: 9999;
+	position: absolute;
+	left: calc( 100% + 0.5em);
+	top: 50%;
+	color: black;
+	font-size: 13px;
+	line-height: 17px;
+	border: 1px solid #BEBEBF;
+	box-shadow: 0 2px 4px 0 rgba(0,0,0,0.1);
+	font-family: "SF Pro Text", 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif !important;
+}
+
+.lic-badge-prompt-align-right .lic-badge-tooltip {
+	left: auto;
+	right: calc( 100% + 0.5em );
+}
+
+.lic-badge-prompt-align-bottom .lic-badge-tooltip {
+	top: auto;
+	bottom: 25%;
+}
+
+#fbc-email.is-hidden, #fbc-login.is-hidden {
+    display: none;
+}

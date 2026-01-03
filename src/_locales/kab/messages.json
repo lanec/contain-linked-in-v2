@@ -1,0 +1,268 @@
+{
+  "extensionDescription": {
+    "message": "Amagbar LinkedIn ad iεzel armud-inek n LinkedIn ɣef urmud-inek web akken ur ittaǧǧa ara LinkedIn ad ak-iḍfer beṛṛa n usmel-ines s ttawil n inagan n tuqqna tis kraḍ.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "in-fbc-subhead": {
+    "message": "$URL$ deg umagbar LinkedIn.",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.linkedin.com"
+      }
+    }
+  },
+  "in-fbc-p1": {
+    "message": "LinkedIn yezmer tura ad k-yeḍfeṛ deg usmel-a. Akken ad tekkseḍ asmel-a seg LinkedIn Container, fren ismal deg LinkedIn Container sakin kkes-it seg tebdert."
+  },
+  "on-facebook-subhead": {
+    "message": "Deg LinkedIn akked ismal i d-yeɛzel LinkedIn Container. ",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "on-facebook-p1": {
+    "message": "Tignit-a ad tban deg ufeggag n tensa n Firefox ticki terziḍ ɣer yismal yessefrak LinkedIn neɣ ismal i terniḍ ɣer LinkedIn container.",
+    "description": "This is shown in the body of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "on-facebook-p2": {
+    "message": "Ismal-a ḥwaǧen ad kecmen ɣer tmagit-ik LinkedIn (neɣ akken ad ẓren anwa-k) akken ad lḥun. Ayagi yemmal-d dakken daɣen ula d LinkedIn yezmer ad yeḍfeṛ meṛṛa ayen i txeddmeḍ deg yismal-a.",
+    "description": "This is shown in the body of the panel pop up when the user is on LinkedIn."
+  },
+  "notOnLinkedInHeader": {
+    "message": "$URL$ ulac-it deg umagbar LinkedIn.",
+    "description": "This is shown at the top of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.google.com"
+      }
+    }
+  },
+  "notOnLinkedInText": {
+    "message": "Asmel-agi yella beṛṛa n umagbar LinkedIn. Aya ad yessiwɛeṛ i LinkedIn ad k-yeḍfeṛ deg Web. ",
+    "description": "This is shown in the body of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "onUnknownSiteHeader": {
+    "message": "Asmel-agi ulac deg umagbar LinkedIn.",
+    "description": "This is shown at the top of the panel pop-up when the user is on an \"unknown\" website - e.g., about:newtab. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "facebookContainer": {
+    "message": "LinkedIn Container",
+    "description": "This is the name of the extension, and appears at the top of all onboarding panels. Please do not translate \"LinkedIn Container\"."
+  },
+  "onboarding1-subhead": {
+    "message": "Aseqdec n LinkedIn Container",
+    "description": "This is the subhead of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding1-p1": {
+    "message": "LinkedIn yezmer ad yeḍfeṛ tunigin-ik beṛṛa n LinkedIn.com. Amedya, ticki llant tqeffalin ḥemmleɣ neɣ Bḍu n LinkedIn, yezmer ad yeḍfeṛ anida tettedduḍ — ɣas ɣef yiseftar ur teḥmileḍ neɣ ur tebḍiḍ.",
+    "description": "This is the first paragraph of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding1-p2": {
+    "message": "LinkedIn Container ad yeɛzel LinkedIn seg Web. Ihi ad s-yewɣeṛ  i LinkedIn akken ad k-yeḍfeṛ srid.",
+    "description": "Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding2-subhead": {
+    "message": "Deg LinkedIn akked yismal i yeɛzel LinkedIn Container ",
+    "description": "This is the subhead for the second onboarding panel. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding2-alt": {
+    "message": "Tignit n talast n LinkedIn Container",
+    "description": "This is alternative text for the icon in the second onboarding panel"
+  },
+  "onboarding2-p1": {
+    "message": "Tignit-a ad tban deg ufeggag n Firefox ticki terziḍ ɣer yismal, am LinkedIn.com, i yellan deg LinkedIn Container.",
+    "description": "This is the first paragraph of the second onboarding panel."
+  },
+  "onboarding2-p2": {
+    "message": "Ismal-a ḥwaǧen ad kecmen ɣer tmagit-ik LinkedIn (neɣ akken ad ẓren anwa-k) akken ad lḥun. Ayagi yemmal-d dakken daɣen ula d LinkedIn yezmer ad yeḍfeṛ meṛṛa ayen i txeddmeḍ deg yismal-a.",
+    "description": "This is the second paragraph of the second onboarding panel. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding4-subhead": {
+    "message": "Beṛṛa n LinkedIn",
+    "description": "This is the subhead for the fourth onboarding panel."
+  },
+  "onboarding4-p1": {
+    "message": "Xas ma ur telliḍ ara deg LinkedIn, LinkedIn izmer ad k-yeḍfeṛ srid. Tiqeffalin ara k-yeǧǧen ad tsuffɣeḍ tiɣawsiwin deg LinkedIn neɣ ad teqqneḍ ɣer yismal web s umiḍan-ik LinkedIn gebren ineḍfaṛen. LinkedIn Container ad isewḥel ineḍfaṛen-a daɣen ad d-yesken tignit n ẓẓerb akken ad ak-d-iban anida ttwakksen ineḍfaṛen.",
+    "description": "This is the first paragraph of the fourth onboarding panel."
+  },
+  "onboarding4-img": {
+    "message": "Tugna-a ad tesken amek ad tban tignit n talast LinkedIn Container deg usebter rrif n uferdis Ḥemmleɣ n LinkedIn.",
+    "description": "This is alternative text for the image shown in the fourth onboarding panel."
+  },
+  "onboarding5-subhead": {
+    "message": "Tuqqna s LinkedIn deg yismal-nniḍen",
+    "description": "This is the subhead for the fifth onboarding panel."
+  },
+  "onboarding5-p1": {
+    "message": "Akken ad teqqneḍ ɣer yismal-nniḍen s LinkedIn, issefk ad tserseḍ ismal-a deg umagbar LinkedIn. Tekki ɣef tignit n ẓẓerb sakin fren \"Sireg asmel deg LinkedIn Container\" ukesser.",
+    "description": "This is the first paragraph of the fifth onboarding panel."
+  },
+  "onboarding5-img": {
+    "message": "Tugna-a temmal-d taqeffalt deg ugalis ara yeǧǧen timerna n usmel ɣer LinkedIn Container.",
+    "description": "This is alternative text for the image shown in the fifth onboarding panel."
+  },
+  "onboarding5-p2": {
+    "message": "Aya ad k-yeǧǧ ad teqqneḍ s LinkedIn, maca ad yeǧǧ LinkedIn ad yeḍfeṛ armud-ik ɣef usmel-a.",
+    "description": "This is the second paragraph on the fifth onboarding panel."
+  },
+  "btn-allow": {
+    "message": "Sireg",
+    "description": "This is a button to allows users to whitelist the domain, adding it to the LinkedIn container."
+  },
+  "btn-cancel": {
+    "message": "Sefsex",
+    "description": "This is a button to cancel out of the onboarding panel."
+  },
+  "btn-next": {
+    "message": "Γer zdat",
+    "description": "This is a button to continue to the next onboarding panel."
+  },
+  "btn-back": {
+    "message": "Ɣer deffir",
+    "description": "This is a button that returns the user to the previous onboarding panel."
+  },
+  "btn-done": {
+    "message": "Immed",
+    "description": "This is a button the user clicks to close out the panel when they have finished reading the text."
+  },
+  "btn-arrow-back": {
+    "message": "Uɣal ɣer ugalis yezrin.",
+    "description": "This is alternative text for the back arrow button."
+  },
+  "btn-arrow-forward": {
+    "message": "Ddu ad teẓreḍ amek iteddu LinkedIn Container",
+    "description": "This is alternative text for the arrow icon next to the \"How LinkedIn Container Works\" link"
+  },
+  "no-trackers-subhead": {
+    "message": "Ulac aneḍfaṛ n LinkedIn i d-yettwafen",
+    "description": ""
+  },
+  "no-trackers-p1": {
+    "message": "LinkedIn Container ur d-yufi ara ineḍfaṛen n LinkedIn ɣef usebter-a. Maca asebter yezmer ad yegber anawen-nniḍen n yineḍfaṛen.",
+    "description": ""
+  },
+  "learn-more": {
+    "message": "Issin ugar",
+    "description": "This is a link that opens a page with more information about LinkedIn Container."
+  },
+  "how-fbc-works": {
+    "message": "Amek iteddu LinkedIn Container",
+    "description": "This is a button that opens the LinkedIn Container onboarding flow."
+  },
+  "trackers-detected-subhead": {
+    "message": "Nemmesten-ik mgal LinkedIn.",
+    "description": "This is a subhead, and it means that the add on has protected the user by blocking LinkedIn trackers."
+  },
+  "trackers-detected-p1": {
+    "message": "Tiqeffalin LinkedIn i d-yettbanen deg yismal n tiɣin, isallen, d yismal-nniḍen gebrent inedfaṛen i d-yemmalen ayen wiɣer i trezzuḍ. Ɣas ma yella ur tseqdaceḍ ara tiqeffalin-a i uḥemmel neɣ i beṭṭu, ineḍfaṛen zemren yal tikkelt ad leqḍen isefka ɣef tunigin-ik. LinkedIn Container yessewḥal ineḍfaṛen-a.",
+    "description": ""
+  },
+  "trackers-detected-p2": {
+    "message": "LinkedIn Container yessewḥel ineḍfaṛen-a. Maca, ma tettekkaḍ ɣef yiwet seg tqeffalin-a, LinkedIn ad yizmir ad k-yeḍfeṛ.",
+    "description": ""
+  },
+  "trackers-detected-fence-alt": {
+    "message": "Talast n LinkedIn Container s waɣer ",
+    "description": "This is alternative text describing the container fence icon."
+  },
+  "sites-added-subhead": {
+    "message": "Ismal yettwaqeblen deg LinkedIn Container",
+    "description": "This is a panel subhead."
+  },
+  "sites-included": {
+    "message": "ISMAL YEDDAN",
+    "description": "This is a header for the list of websites that are in the LinkedIn Container by default. Capitalized letters are preferred if that makes sense/is feasible for the language."
+  },
+  "no-sites-added": {
+    "message": "Ula yiwen",
+    "description": "This message is shown beneath the 'SITES YOU’VE ALLOWED' list header when no sites have been added to the contaner."
+  },
+  "sites-allowed": {
+    "message": "ISMAL I TQEBLEḌ",
+    "description": "This is the header for the list of sites the user has manually added into the LinkedIn Container. Capitalized letters are preferred if that makes sense/is feasible for the lanaguage."
+  },
+  "sites-added-p1": {
+    "message": "LinkedIn Container ad yeɛzel ismal ittekkan ɣer LinkedIn deg temnaḍt s talast. Tzemreḍ ad ternuḍ ismal-nniḍen ɣer umagbar, maca ad teǧǧeḍ LinkedIn ad k-yeḍfeṛ ugar."
+  },
+  "remove": {
+    "message": "KKES",
+    "description": ""
+  },
+  "button-allow-site": {
+    "message": "Sireg asmel deg umagbar LinkedIn",
+    "description": "Button text that allows sites to be added to the LinkedIn Container"
+  },
+  "button-remove-site": {
+    "message": "Kkes asmel seg umagbar LinkedIn",
+    "description": "Button text that removes an already-added site from the LinkedIn Container to the default container"
+  },
+  "button-remove-site-tooltip": {
+    "message": "Imi asmel-a d ayla n LinkedIn, ur nezmir ara ad t-nekkes seg umagbar LinkedIn.",
+    "description": "Tooltip that is displayed when hovering over the remove site button"
+  },
+  "remove-site-subhead": {
+    "message": "Kkes asmel seg LinkedIn Container?",
+    "description": ""
+  },
+  "remove-site-p1": {
+    "message": "Ma tekkseḍ asmel-a seg LinkedIn Container ayagi ur k-yettaǧǧa ara ad teqqneḍ ɣer-s ɣer zdat s tmahilt n LinkedIn daɣen inagan n tuqqna LinkedIn ad ttwakksen.",
+    "description": ""
+  },
+  "remove-site-p2": {
+    "message": "Ma tebɣiḍ ad teqqneḍ s LinkedIn tikkelt-nniḍen, ilaq ad ternuḍ asmel-a ɣer LinkedIn Container.",
+    "description": ""
+  },
+  "add-site-subhead": {
+    "message": "Sireg aḍfaṛ n LinkedIn ɣef usmel-a?",
+    "description": ""
+  },
+  "add-site-p1": {
+    "message": "Aya ad k-yeǧǧ ad teqqneḍ s LinkedIn, maca ad yeǧǧ LinkedIn ad yeḍfeṛ armud-ik ɣef usmel-a.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-share": {
+    "message": "LinkedIn Container yessens taqeffalt ihi yessewḥel LinkedIn seg uḍfaṛ n tirza deg usebter-a.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-login": {
+    "message": "LinkedIn Container yessewḥel ineḍfaṛen n LinkedIn. MA tesqedceḍ tuqqna s LinkedIn deg usmel-a, LinkedIn ad yizmir ad k-yeḍfeṛ.",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-p1": {
+    "message": "Eǧǧ LinkedIn ad ak·akem-yeḍfeṛ dagi?",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-p2": {
+    "message": "Ma tebɣiḍ ad tesqedceḍ tuqqna s LinkedIn, LinkedIn ad yizmir ad yeḍfeṛ armud-ik ɣef usmel-a. Ayagi yezmer ad imudd tallelt ɣef wudem-ik deg tudert-ik srid.",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-checkbox": {
+    "message": "Ur yi-d-skan ara aya tikelt-nniḍen",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-share-passive": {
+    "message": "Matetekkaḍ ɣef tqeffalt-a, LinkedIn ad yizmir ad k-yeḍfeṛ deg tirza n usmel-a.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-email": {
+    "message": "Ma yella tesseqdaceḍ tansa-inek·inem n yimayl n tidet dagi, LinkedIn yezmer ad ak·akem-yeḍfer. Sit i wakken ad teẓreḍ ugar.",
+    "description": ""
+  },
+  "inPageUI-tooltip-email-prompt-p1": {
+    "message": "Eǧǧ LinkedIn ad ak·akem-yeḍfeṛ dagi?",
+    "description": ""
+  },
+  "inPageUI-tooltip-email-prompt-p2": {
+    "message": "Asel-a yezmer ad yebḍu tansa-inek·inem n yimayl akked LinkedIn, ayen ara yeǧǧen LinkedIn ad ak·akem-yeḍfer. Seqdec ameẓlu am Firefox Relay i wakken ad teffreḍ tansa-inek·inem n yimayl n tidet.",
+    "description": ""
+  },
+  "btn-relay-dismiss": {
+    "message": "Zgel",
+    "description": ""
+  },
+  "btn-relay-try": {
+    "message": "Ɛreḍ Firefox Relay",
+    "description": ""
+  }
+}

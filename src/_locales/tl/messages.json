@@ -1,0 +1,197 @@
+{
+  "extensionDescription": {
+    "message": "Ang LinkedIn container ay inihihiwalay ang iyong mga aktibidad sa LinkedIn sa iba mong aktibidad sa web upang maiwasan ang LinkedIn na subaybayan ka sa labas ng kanilang website gamit ang mga third party cookies.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "in-fbc-subhead": {
+    "message": "$URL$ ay nasa LinkedIn Container.",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.linkedin.com"
+      }
+    }
+  },
+  "in-fbc-p1": {
+    "message": "Maaari nang i-track ng LinkedIn ang site na ito. Para alisin sa LinkedIn Container ang site na ito, piliin ang Sites Allowed sa LinkedIn Container at alisin ito mula sa listahan."
+  },
+  "on-facebook-subhead": {
+    "message": "Nasa LinkedIn at Sites na sakop ng LinkedIn Container",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "on-facebook-p1": {
+    "message": "Ang icon na ito ay makikita sa address bar ng Firefox kung ikaw ay bibisita ng mga site na pag-aari ng LinkedIn o mga site na dinagdag mo sa LinkedIn Container.",
+    "description": "This is shown in the body of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "on-facebook-p2": {
+    "message": "Ang mga site na ito ay nangangailangan ng access sa iyong pagkakakilanlan sa LinkedIn (o kung sino ikaw) para gumana. Nangangahulugan din ito na pwedeng subaybayan ng LinkedIn ang lahat ng ginagawa mo sa mga site na ito.",
+    "description": "This is shown in the body of the panel pop up when the user is on LinkedIn."
+  },
+  "notOnLinkedInHeader": {
+    "message": "$URL$ ay wala sa LinkedIn Container.",
+    "description": "This is shown at the top of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.google.com"
+      }
+    }
+  },
+  "notOnLinkedInText": {
+    "message": "Ang site na ito ay nasa labas ng LinkedIn Container. Ginawa nitong mas mahirap para sa LinkedIn na subaybayan ka sa web.",
+    "description": "This is shown in the body of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "onUnknownSiteHeader": {
+    "message": "Ang site na ito ay wala sa LinkedIn Container.",
+    "description": "This is shown at the top of the panel pop-up when the user is on an \"unknown\" website - e.g., about:newtab. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "facebookContainer": {
+    "message": "LinkedIn Container",
+    "description": "This is the name of the extension, and appears at the top of all onboarding panels. Please do not translate \"LinkedIn Container\"."
+  },
+  "onboarding1-subhead": {
+    "message": "Paggamit ng LinkedIn Container",
+    "description": "This is the subhead of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding1-p1": {
+    "message": "Maaaring subaybayan ng LinkedIn ang iyong browsing lampas pa sa loob ng LinkedIn.com. Sa pamamagitan ng LinkedIn Like at Share buttons, halimbawa, ay maaring masubaybayan kung nasaan ka — kahit sa mga pahinang hindi mo nai-like or share.",
+    "description": "This is the first paragraph of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding1-p2": {
+    "message": "Ang LinkedIn Container ay gumagawa ng hangganan sa paggitan ng mga LinkedIn site at iba pang nasa web para mahirapan ang LinkedIn na subaybayan ka online.",
+    "description": "Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding2-subhead": {
+    "message": "Nasa LinkedIn at Sites na sakop ng LinkedIn Container",
+    "description": "This is the subhead for the second onboarding panel. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding2-alt": {
+    "message": "Ang bakod na icon ng LinkedIn Container",
+    "description": "This is alternative text for the icon in the second onboarding panel"
+  },
+  "onboarding2-p1": {
+    "message": "Ang icon na ito ay lilitaw sa Firefox address bar kapag binisita mo ang mga sites, tulad ng LinkedIn.com, na nasa hangganan ng LinkedIn Container.",
+    "description": "This is the first paragraph of the second onboarding panel."
+  },
+  "onboarding2-p2": {
+    "message": "Ang mga site na ito ay nangangailangan ng access sa iyong pakakakilanlan sa LinkedIn (o malaman kung sino ka) upang gumana. Nangangahulugan din ito na maaaring nakasubaybay ang LinkedIn sa lahat ng ginagawa mo sa mga site na ito.",
+    "description": "This is the second paragraph of the second onboarding panel. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding4-subhead": {
+    "message": "Sa labas ng LinkedIn",
+    "description": "This is the subhead for the fourth onboarding panel."
+  },
+  "onboarding4-img": {
+    "message": "Ang imahe na ito ay nagpapakita kung paano magpapakita ang LinkedIn Containers fence icon katabi ng LinkedIn Like button.",
+    "description": "This is alternative text for the image shown in the fourth onboarding panel."
+  },
+  "onboarding5-p2": {
+    "message": "Pinapayagan ka nito na mag-login gamit ang LinkedIn, ngunit masusubaybayan ka ng LinkedIn sa iyong aktibidad sa site na iyon.",
+    "description": "This is the second paragraph on the fifth onboarding panel."
+  },
+  "btn-allow": {
+    "message": "Payagan",
+    "description": "This is a button to allows users to whitelist the domain, adding it to the LinkedIn container."
+  },
+  "btn-cancel": {
+    "message": "Kanselahin",
+    "description": "This is a button to cancel out of the onboarding panel."
+  },
+  "btn-next": {
+    "message": "Sunod",
+    "description": "This is a button to continue to the next onboarding panel."
+  },
+  "btn-back": {
+    "message": "Bumalik",
+    "description": "This is a button that returns the user to the previous onboarding panel."
+  },
+  "btn-done": {
+    "message": "Tapos na",
+    "description": "This is a button the user clicks to close out the panel when they have finished reading the text."
+  },
+  "btn-arrow-back": {
+    "message": "Bumalik sa naunang panel.",
+    "description": "This is alternative text for the back arrow button."
+  },
+  "btn-arrow-forward": {
+    "message": "Pumunta sa Kung paano gamitin ang LinkedIn Container",
+    "description": "This is alternative text for the arrow icon next to the \"How LinkedIn Container Works\" link"
+  },
+  "no-trackers-subhead": {
+    "message": "Walang natuklasan na mga trackers ng LinkedIn",
+    "description": ""
+  },
+  "no-trackers-p1": {
+    "message": "Ang LinkedIn Container ay walang nakitang mga LinkedIn trackers sa pahina. Subalit, maaaring may mga ibang tracker sa pahina.",
+    "description": ""
+  },
+  "learn-more": {
+    "message": "Matuto ng higit pa",
+    "description": "This is a link that opens a page with more information about LinkedIn Container."
+  },
+  "how-fbc-works": {
+    "message": "Paano gumagana ang LinkedIn Container",
+    "description": "This is a button that opens the LinkedIn Container onboarding flow."
+  },
+  "trackers-detected-subhead": {
+    "message": "Protektado ka namin mula sa LinkedIn.",
+    "description": "This is a subhead, and it means that the add on has protected the user by blocking LinkedIn trackers."
+  },
+  "trackers-detected-p2": {
+    "message": "Hinahadlangan ng LinkedIn Container ang mga tracker na ito. Gayunpaman, kung nag-click ka sa anuman sa mga pindutang ito ay masusubaybayan ka ng LinkedIn.",
+    "description": ""
+  },
+  "trackers-detected-fence-alt": {
+    "message": "Bakod ng LinkedIn Container na may shield.",
+    "description": "This is alternative text describing the container fence icon."
+  },
+  "sites-added-subhead": {
+    "message": "Mga sites na pinapayagan sa LinkedIn Container",
+    "description": "This is a panel subhead."
+  },
+  "sites-included": {
+    "message": "SITES INCLUDED",
+    "description": "This is a header for the list of websites that are in the LinkedIn Container by default. Capitalized letters are preferred if that makes sense/is feasible for the language."
+  },
+  "no-sites-added": {
+    "message": "Wala",
+    "description": "This message is shown beneath the 'SITES YOU’VE ALLOWED' list header when no sites have been added to the contaner."
+  },
+  "sites-allowed": {
+    "message": "MGA SITE NA PINAYAGAN MO",
+    "description": "This is the header for the list of sites the user has manually added into the LinkedIn Container. Capitalized letters are preferred if that makes sense/is feasible for the lanaguage."
+  },
+  "remove": {
+    "message": "Alisin",
+    "description": ""
+  },
+  "button-allow-site": {
+    "message": "Payagan ang Site sa LinkedIn Container",
+    "description": "Button text that allows sites to be added to the LinkedIn Container"
+  },
+  "button-remove-site": {
+    "message": "Tanggalin ang Site mula sa LinkedIn Container",
+    "description": "Button text that removes an already-added site from the LinkedIn Container to the default container"
+  },
+  "button-remove-site-tooltip": {
+    "message": "Dahil ito ay isang site na pagmamay-ari ng LinkedIn, hindi ito maaaring tanggalin mula sa LinkedIn Container.",
+    "description": "Tooltip that is displayed when hovering over the remove site button"
+  },
+  "remove-site-subhead": {
+    "message": "Alisin ang site mula sa LinkedIn Container?",
+    "description": ""
+  },
+  "add-site-subhead": {
+    "message": "Payagan ang Pagsubaybay ng LinkedIn sa site na ito?",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-p1": {
+    "message": "Payagan ang LinkedIn na subaybayan ka rito?",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-checkbox": {
+    "message": "Huwag ipakita sa akin ito ulit",
+    "description": ""
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "in-fbc-subhead": {
+    "message": "$URL$ е во LinkedIn Container.",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.linkedin.com"
+      }
+    }
+  },
+  "on-facebook-subhead": {
+    "message": "На LinkedIn и страници во границите на LinkedIn Container",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "facebookContainer": {
+    "message": "LinkedIn Container",
+    "description": "This is the name of the extension, and appears at the top of all onboarding panels. Please do not translate \"LinkedIn Container\"."
+  },
+  "onboarding1-subhead": {
+    "message": "Користење на LinkedIn Container",
+    "description": "This is the subhead of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "btn-allow": {
+    "message": "Дозволи",
+    "description": "This is a button to allows users to whitelist the domain, adding it to the LinkedIn container."
+  },
+  "btn-cancel": {
+    "message": "Откажи",
+    "description": "This is a button to cancel out of the onboarding panel."
+  },
+  "btn-next": {
+    "message": "Следно",
+    "description": "This is a button to continue to the next onboarding panel."
+  },
+  "btn-back": {
+    "message": "Назад",
+    "description": "This is a button that returns the user to the previous onboarding panel."
+  },
+  "btn-done": {
+    "message": "Готово",
+    "description": "This is a button the user clicks to close out the panel when they have finished reading the text."
+  },
+  "btn-arrow-back": {
+    "message": "Врати се на претходниот панел.",
+    "description": "This is alternative text for the back arrow button."
+  },
+  "no-trackers-subhead": {
+    "message": "Не се откриени следачи на LinkedIn",
+    "description": ""
+  },
+  "learn-more": {
+    "message": "Дознајте повеќе",
+    "description": "This is a link that opens a page with more information about LinkedIn Container."
+  },
+  "trackers-detected-subhead": {
+    "message": "Ве заштитивме од LinkedIn.",
+    "description": "This is a subhead, and it means that the add on has protected the user by blocking LinkedIn trackers."
+  },
+  "sites-included": {
+    "message": "ВКЛУЧЕНИ СТРАНИЦИ",
+    "description": "This is a header for the list of websites that are in the LinkedIn Container by default. Capitalized letters are preferred if that makes sense/is feasible for the language."
+  },
+  "no-sites-added": {
+    "message": "Ниеден",
+    "description": "This message is shown beneath the 'SITES YOU’VE ALLOWED' list header when no sites have been added to the contaner."
+  },
+  "sites-allowed": {
+    "message": "ДОЗВОЛЕНИ СТРАНИЦИ",
+    "description": "This is the header for the list of sites the user has manually added into the LinkedIn Container. Capitalized letters are preferred if that makes sense/is feasible for the lanaguage."
+  },
+  "remove": {
+    "message": "Отстрани",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-p1": {
+    "message": "Дозволете LinkedIn да ве следи тука?",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-p2": {
+    "message": "Ако сакате да се логирате со LinkedIn, тогаш LinkedIn ќе може да ја следи вашата активност на оваа страница. Ова може да им помогне да изградат поцелосна слика за вашиот онлајн живот.",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-checkbox": {
+    "message": "Не ми го прикажувај повторно",
+    "description": ""
+  }
+}

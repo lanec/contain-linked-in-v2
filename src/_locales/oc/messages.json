@@ -1,0 +1,268 @@
+{
+  "extensionDescription": {
+    "message": "LinkedIn Container isola vòstra activitat LinkedIn de la rèsta de vòstra activitat web per dire d’empachar LinkedIn de vos pistar defòra del site LinkedIn via de cookies tèrces.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "in-fbc-subhead": {
+    "message": "$URL$ es dins LinkedIn Container.",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.linkedin.com"
+      }
+    }
+  },
+  "in-fbc-p1": {
+    "message": "Ara LinkedIn pòt vos pistar sus aqueste site. Per suprimir aqueste site de LinkedIn Container, seleccionatz « Sites autorizats » dins LinkedIn Container e tiratz-lo de la lista."
+  },
+  "on-facebook-subhead": {
+    "message": "Sus LinkedIn e suls sites isolats per LinkedIn Container",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "on-facebook-p1": {
+    "message": "Aquesta icòna apareis a la barra d’adreça de Firefox quand consultatz de sites que son gerits per LinkedIn o de sites qu’ajustèretz a LinkedIn Container.",
+    "description": "This is shown in the body of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "on-facebook-p2": {
+    "message": "Aqueste sites an d’accedir a vòstra identitat LinkedIn (o saber qui sètz) per foncionar. Aquò significa tanben que LinkedIn pòt pistar tot çò que fasètz sus aquestes sites.",
+    "description": "This is shown in the body of the panel pop up when the user is on LinkedIn."
+  },
+  "notOnLinkedInHeader": {
+    "message": "$URL$ se tròba pas dins LinkedIn Container.",
+    "description": "This is shown at the top of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.google.com"
+      }
+    }
+  },
+  "notOnLinkedInText": {
+    "message": "Aqueste site es pas dins LinkedIn container. Fa venir mai complicat a LinkedIn de vos pistar pel web.",
+    "description": "This is shown in the body of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "onUnknownSiteHeader": {
+    "message": "Aqueste site es pas dins LinkedIn Container.",
+    "description": "This is shown at the top of the panel pop-up when the user is on an \"unknown\" website - e.g., about:newtab. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "facebookContainer": {
+    "message": "LinkedIn Container",
+    "description": "This is the name of the extension, and appears at the top of all onboarding panels. Please do not translate \"LinkedIn Container\"."
+  },
+  "onboarding1-subhead": {
+    "message": "Utilizacion de LinkedIn Container",
+    "description": "This is the subhead of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding1-p1": {
+    "message": "LinkedIn pòt pistar vòstra navegacion en delai de LinkedIn.com. Per exemple los botons « M’agrada » e « Partejar » pòdon pistar ont sètz anat — amai sus las paginas qu’avètz pas aimadas o partejadas.",
+    "description": "This is the first paragraph of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding1-p2": {
+    "message": "LinkedIn Container estrema los sites LinkedIn de la rèsta del web, es doncas mai complicat per LinkedIn de vos pistar en linha.",
+    "description": "Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding2-subhead": {
+    "message": "Sus LinkedIn e suls sites isolats per LinkedIn Container",
+    "description": "This is the subhead for the second onboarding panel. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding2-alt": {
+    "message": "L’icòna de barrièra de LinkedIn Container",
+    "description": "This is alternative text for the icon in the second onboarding panel"
+  },
+  "onboarding2-p1": {
+    "message": "Aquesta icòna apareis a la barra d’adreça quand consultatz de sites, coma LinkedIn.com, que son dubèrts dins un contenidor LinkedIn Container.",
+    "description": "This is the first paragraph of the second onboarding panel."
+  },
+  "onboarding2-p2": {
+    "message": "Aqueste sites an d’accedir a vòstra identitat LinkedIn (o saber qui sètz) per foncionar. Aquò significa tanben que LinkedIn pòt pistar tot çò que fasètz sus aquestes sites.",
+    "description": "This is the second paragraph of the second onboarding panel. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding4-subhead": {
+    "message": "Fòra de LinkedIn",
+    "description": "This is the subhead for the fourth onboarding panel."
+  },
+  "onboarding4-p1": {
+    "message": "Encara que siatz pas sus LinkedIn, LinkedIn pòt vos pistar en linha. Los botons que vos permeton de publicar de causas sus LinkedIn o vos connectar al site via vòstre compte LinkedIn contenon de traçadors. LinkedIn Container blocarà aqueles traçadors e mostrarà una icòna de barrièra per vos far veire que de traçadors son estats tirats.",
+    "description": "This is the first paragraph of the fourth onboarding panel."
+  },
+  "onboarding4-img": {
+    "message": "Aqueste imatge mòstra cossí l’icòna de la barrièra de LinkedIn Container apareis al costat del boton « M’agrada » de LinkedIn.",
+    "description": "This is alternative text for the image shown in the fourth onboarding panel."
+  },
+  "onboarding5-subhead": {
+    "message": "Se connectar via LinkedIn sus d’autres sites",
+    "description": "This is the subhead for the fifth onboarding panel."
+  },
+  "onboarding5-p1": {
+    "message": "Per utilizar la connexion amb LinkedIn sus d’autres sites, vos caldrà los declarar coma autorizats. Clicatz l’icòna de la barrièra e seleccionatz « Autorizar lo site dins LinkedIn Container » enbàs.",
+    "description": "This is the first paragraph of the fifth onboarding panel."
+  },
+  "onboarding5-img": {
+    "message": "Aqueste imatge mòstra cossí lo boton per apondre un site a LinkedIn Container apareisserà pel panèl.",
+    "description": "This is alternative text for the image shown in the fifth onboarding panel."
+  },
+  "onboarding5-p2": {
+    "message": "Aquò vos permet de vos connectar via LinkedIn mas permet a LinkedIn de vos pistar sus aqueste site.",
+    "description": "This is the second paragraph on the fifth onboarding panel."
+  },
+  "btn-allow": {
+    "message": "Autorizar",
+    "description": "This is a button to allows users to whitelist the domain, adding it to the LinkedIn container."
+  },
+  "btn-cancel": {
+    "message": "Anullar",
+    "description": "This is a button to cancel out of the onboarding panel."
+  },
+  "btn-next": {
+    "message": "Seguent",
+    "description": "This is a button to continue to the next onboarding panel."
+  },
+  "btn-back": {
+    "message": "Tornar",
+    "description": "This is a button that returns the user to the previous onboarding panel."
+  },
+  "btn-done": {
+    "message": "Acabat",
+    "description": "This is a button the user clicks to close out the panel when they have finished reading the text."
+  },
+  "btn-arrow-back": {
+    "message": "Tornar al panèl precedent.",
+    "description": "This is alternative text for the back arrow button."
+  },
+  "btn-arrow-forward": {
+    "message": "Anar a Cossí LinkedIn Container fonciona",
+    "description": "This is alternative text for the arrow icon next to the \"How LinkedIn Container Works\" link"
+  },
+  "no-trackers-subhead": {
+    "message": "Cap de traçador de LinkedIn pas detectat",
+    "description": ""
+  },
+  "no-trackers-p1": {
+    "message": "LinkedIn Container a pas detectat cap de traçador de LinkedIn sus aquesta pagina. Pasmens, aquesta pagina pòt conténer d’autres tipes de traçadors.",
+    "description": ""
+  },
+  "learn-more": {
+    "message": "Ne saber mai",
+    "description": "This is a link that opens a page with more information about LinkedIn Container."
+  },
+  "how-fbc-works": {
+    "message": "Cossí LinkedIn Container fonciona",
+    "description": "This is a button that opens the LinkedIn Container onboarding flow."
+  },
+  "trackers-detected-subhead": {
+    "message": "Vos avèm protegit de LinkedIn.",
+    "description": "This is a subhead, and it means that the add on has protected the user by blocking LinkedIn trackers."
+  },
+  "trackers-detected-p1": {
+    "message": "Los botons LinkedIn apareisson suls sites de crompa, d’actualitat e d’autres encara que contenon de traçadors qu’indican a LinkedIn çò que consultatz. Amai s’utilizatz pas jamai aquestes botons per aimar o partejar, los traçadors pòdon reculhir de donadas de vòstra navegacion. LinkedIn Container bloca aqueste traçadors.",
+    "description": ""
+  },
+  "trackers-detected-p2": {
+    "message": "LinkedIn Container bloca aqueles traçadors. Pasmens, se clicatz qual que siá d’aqueles botons LinkedIn poirà vos pistar.",
+    "description": ""
+  },
+  "trackers-detected-fence-alt": {
+    "message": "Barrièra de LinkedIn Container amb un escut.",
+    "description": "This is alternative text describing the container fence icon."
+  },
+  "sites-added-subhead": {
+    "message": "Sites autorizats dins LinkedIn Container",
+    "description": "This is a panel subhead."
+  },
+  "sites-included": {
+    "message": "SITES INCLUSES",
+    "description": "This is a header for the list of websites that are in the LinkedIn Container by default. Capitalized letters are preferred if that makes sense/is feasible for the language."
+  },
+  "no-sites-added": {
+    "message": "Pas cap",
+    "description": "This message is shown beneath the 'SITES YOU’VE ALLOWED' list header when no sites have been added to the contaner."
+  },
+  "sites-allowed": {
+    "message": "SITES QU’AVÈTZ AUTORIZATS",
+    "description": "This is the header for the list of sites the user has manually added into the LinkedIn Container. Capitalized letters are preferred if that makes sense/is feasible for the lanaguage."
+  },
+  "sites-added-p1": {
+    "message": "LinkedIn container isola los sites qu'apertenon a LinkedIn. Podètz apondre d’autres sites al contenidor, aquò permetrà a LinkedIn de pistar vòstra navegacion encara mai."
+  },
+  "remove": {
+    "message": "Suprimir",
+    "description": ""
+  },
+  "button-allow-site": {
+    "message": "Autorizar lo site dins LinkedIn Container",
+    "description": "Button text that allows sites to be added to the LinkedIn Container"
+  },
+  "button-remove-site": {
+    "message": "Suprimir lo site de LinkedIn Container",
+    "description": "Button text that removes an already-added site from the LinkedIn Container to the default container"
+  },
+  "button-remove-site-tooltip": {
+    "message": "Coma aqueste site es proprietat de LinkedIn, pòt pas èsser tirat de LinkedIn Container.",
+    "description": "Tooltip that is displayed when hovering over the remove site button"
+  },
+  "remove-site-subhead": {
+    "message": "Volètz suprimir lo site de LinkedIn Container ?",
+    "description": ""
+  },
+  "remove-site-p1": {
+    "message": "Se tiratz aqueste site de LinkedIn Container, la foncion de connexion amb LinkedIn foncionarà pas mai e los cookies de seguiment seràn suprimits.",
+    "description": ""
+  },
+  "remove-site-p2": {
+    "message": "Se volètz tornar utilizar la foncion de connexion amb LinkedIn, auretz de tornar apondre aqueste site a LinkedIn Container.",
+    "description": ""
+  },
+  "add-site-subhead": {
+    "message": "Volètz permetre a LinkedIn de vos pistar sus aqueste site ?",
+    "description": ""
+  },
+  "add-site-p1": {
+    "message": "Aquò vos permet de vos connectar via LinkedIn, mas permet a LinkedIn de vos pistar sus aqueste site.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-share": {
+    "message": "LinkedIn Container a desactivat aqueste boton e a empachat LinkedIn de pistar vòstra visita sus aquesta pagina.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-login": {
+    "message": "LinkedIn Container a blocat de traçadors LinkedIn. Se vos connectatz amb LinkedIn sus aqueste site, poirà vos pistar.",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-p1": {
+    "message": "Volètz permetre a LinkedIn de vos pistar aquí ?",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-p2": {
+    "message": "Se volètz utilizar la foncion de connexion amb LinkedIn, alara LinkedIn poirà pistar vòstra activitat sus aqueste site. Aquò pòt lor ajudar a construire un perfil mai complèt de vòstra vida en linha.",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-checkbox": {
+    "message": "Me mostrar pas mai aquò",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-share-passive": {
+    "message": "Se clicatz aqueste boton, LinkedIn poirà vos pistar sus aqueste site.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-email": {
+    "message": "S’utilizatz vòstra adreça electronica reala aquí, LinkedIn pòt vos pistar. Clicatz aquí per ne saber mai.",
+    "description": ""
+  },
+  "inPageUI-tooltip-email-prompt-p1": {
+    "message": "Autorizar LinkedIn a vos pistar aquí ?",
+    "description": ""
+  },
+  "inPageUI-tooltip-email-prompt-p2": {
+    "message": "Aqueste site pòt partejar vòstra adreça electronica amb LinkedIn, çò que lor permeton de vos pistar. Utilizatz un servici coma Firefox Relay per amagar vòstra adreça electronica.",
+    "description": ""
+  },
+  "btn-relay-dismiss": {
+    "message": "Ignorar",
+    "description": ""
+  },
+  "btn-relay-try": {
+    "message": "Ensajar Firefox Relay",
+    "description": ""
+  }
+}

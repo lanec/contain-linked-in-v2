@@ -1,1 +1,4 @@
-web-ext-artifacts
+
+
+#Ignore windsurf AI rules
+.windsurfrules

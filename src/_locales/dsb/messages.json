@@ -1,0 +1,268 @@
+{
+  "extensionDescription": {
+    "message": "LinkedIn Container wašu aktiwitu LinkedIn wót zbytka wašeje webaktiwity izolěrujo, aby LinkedIn zawoborał, wam zwenka websedła LinkedIn pśez cookieje tśeśich slědowaś.",
+    "description": "Description of the extension. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "in-fbc-subhead": {
+    "message": "$URL$ jo w LinkedIn Container.",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.linkedin.com"
+      }
+    }
+  },
+  "in-fbc-p1": {
+    "message": "LinkedIn móžo wam něnto na toś tom sedle slědowaś. Aby toś to sedło z LinkedIn Container wótwónoźeł, wubjeŕśo „Sedła, kótarež su dowólone w LinkedIn Container“, aby jo z lisćiny wótwónoźeł."
+  },
+  "on-facebook-subhead": {
+    "message": "Na LinkedIn a sedłach w šćitanem wobceŕku LinkedIn Container",
+    "description": "This is shown at the top of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "on-facebook-p1": {
+    "message": "Toś ten symbol se w adresowem pólu Firefox pokazujo, gaž k sedłam woglědujośo, kótarež LinkedIn słušaju, abo k sedłam, kótarež sćo LinkedIn Container pśidał.",
+    "description": "This is shown in the body of the panel pop-up when the user is on a LinkedIn website, which has been automatically opened into LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "on-facebook-p2": {
+    "message": "Toś te sedła trjebaju pśistup k wašej identiśe LinkedIn (abo muse wěźeś, chto sćo), aby funkcioněrowali. To teke groni, až LinkedIn móžo wšymu slědowaś, což na toś tych sedłach cyniśo.",
+    "description": "This is shown in the body of the panel pop up when the user is on LinkedIn."
+  },
+  "notOnLinkedInHeader": {
+    "message": "$URL$ njejo w LinkedIn Container.",
+    "description": "This is shown at the top of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\".",
+    "placeholders": {
+      "url": {
+        "content": "$1",
+        "example": "www.google.com"
+      }
+    }
+  },
+  "notOnLinkedInText": {
+    "message": "Toś to sedło jo zwenka LinkedIn Container. To LinkedIn póśěžujo, wam pó webje slědowaś.",
+    "description": "This is shown in the body of the panel pop-up when the user is NOT on a LinkedIn website, which has been automatically opened OUTSIDE LinkedIn Container. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "onUnknownSiteHeader": {
+    "message": "Toś to sedło njejo w LinkedIn Container.",
+    "description": "This is shown at the top of the panel pop-up when the user is on an \"unknown\" website - e.g., about:newtab. DO NOT TRANSLATE \"LinkedIn Container\"."
+  },
+  "facebookContainer": {
+    "message": "LinkedIn Container",
+    "description": "This is the name of the extension, and appears at the top of all onboarding panels. Please do not translate \"LinkedIn Container\"."
+  },
+  "onboarding1-subhead": {
+    "message": "LinkedIn Container wužywaś",
+    "description": "This is the subhead of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding1-p1": {
+    "message": "LinkedIn móžo wěcej ako LinkedIn.com slědowaś. Tłocaška „Spódoba se“ a „Źěliś“ na pśikład móžotej wam wšuźi slědowaś, źož sćo był - samo na bokach, na kótarychž njejsćo nigda kliknuł na „Spódoba sr“ abo „Źěliś“.",
+    "description": "This is the first paragraph of onboarding panel 1. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding1-p2": {
+    "message": "LinkedIn Container šćitany wobceŕk mjazy sedłami a zbytkom interneta napórajo, aby jo śěžej za LinkedIn, wam online slědowaś.",
+    "description": "Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding2-subhead": {
+    "message": "Na LinkedIn a sedłach w šćitanem wobceŕku LinkedIn Container",
+    "description": "This is the subhead for the second onboarding panel. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding2-alt": {
+    "message": "Płośikowy symbol LinkedIn Container",
+    "description": "This is alternative text for the icon in the second onboarding panel"
+  },
+  "onboarding2-p1": {
+    "message": "Toś ten symbol se w adresowem pólu Firefox pokazujo, gaž se k sedłam ako LinkedIn.com woglědujośo, kótarež su w šćitanem wobceŕku LinkedIn Container.",
+    "description": "This is the first paragraph of the second onboarding panel."
+  },
+  "onboarding2-p2": {
+    "message": "Toś te sedła trjebaju pśistup k wašej identiśe LinkedIn (abo muse wěźeś, chto sćo), aby funkcioněrowali. To teke groni, až LinkedIn móžo wšymu slědowaś, což na toś tych sedłach cyniśo.",
+    "description": "This is the second paragraph of the second onboarding panel. Please do not translate \"LinkedIn Container\""
+  },
+  "onboarding4-subhead": {
+    "message": "Zwenka LinkedIn",
+    "description": "This is the subhead for the fourth onboarding panel."
+  },
+  "onboarding4-p1": {
+    "message": "Samo gaž njeby wy na LinkedIn był, móžo wam LinkedIn online slědowaś. Tłocaški, kótarež wam zmóžnjaju, něco na LinkedIn słaś abo se z wašym kontom LinkedIn pla websedłow pśizjawiś, pśeslědowaki wopśimuju. LinkedIn Container buźo toś te pśeslědowaki blokěrowaś a płotowy symbol zwobrazniś, aby wam pokazał, źož su se wótwónoźeli pśeslědowaki.",
+    "description": "This is the first paragraph of the fourth onboarding panel."
+  },
+  "onboarding4-img": {
+    "message": "Toś ten wobraz demonstrěrujo, kak se płośikowy symbol LinkedIn Container na boku pódla tłocaška „Spódoba se“ LinkedIn.",
+    "description": "This is alternative text for the image shown in the fourth onboarding panel."
+  },
+  "onboarding5-subhead": {
+    "message": "Z LinkedIn na drugich sedłach pśizjawiś",
+    "description": "This is the subhead for the fifth onboarding panel."
+  },
+  "onboarding5-p1": {
+    "message": "Aby swójo pśizjawjenje na drugich sedłach wužywał, musyśo je do šćitanego wobceŕka pśesunuś. Klikniśo na płotowy symbol a wubjeŕśo dołojce ‚Sedło we LinkedIn Container‘.",
+    "description": "This is the first paragraph of the fifth onboarding panel."
+  },
+  "onboarding5-img": {
+    "message": "Toś ten wobraz demonstrěrujo, kak se tłocašk za pśidawanje sedła do LinkedIn Container we woknje pokazujo.",
+    "description": "This is alternative text for the image shown in the fifth onboarding panel."
+  },
+  "onboarding5-p2": {
+    "message": "To wam zmóžnja, se pla LinkedIn pśizjawiś, ale LinkedIn móžo wašej aktiwiśe na tom sedle slědowaś.",
+    "description": "This is the second paragraph on the fifth onboarding panel."
+  },
+  "btn-allow": {
+    "message": "Dowóliś",
+    "description": "This is a button to allows users to whitelist the domain, adding it to the LinkedIn container."
+  },
+  "btn-cancel": {
+    "message": "Pśetergnuś",
+    "description": "This is a button to cancel out of the onboarding panel."
+  },
+  "btn-next": {
+    "message": "Dalej",
+    "description": "This is a button to continue to the next onboarding panel."
+  },
+  "btn-back": {
+    "message": "Slědk",
+    "description": "This is a button that returns the user to the previous onboarding panel."
+  },
+  "btn-done": {
+    "message": "Gótowo",
+    "description": "This is a button the user clicks to close out the panel when they have finished reading the text."
+  },
+  "btn-arrow-back": {
+    "message": "Slědk k pjerwjejšnemu wobceŕkoju.",
+    "description": "This is alternative text for the back arrow button."
+  },
+  "btn-arrow-forward": {
+    "message": "Slědk ku „Kak LinkedIn Container funkcioněrujo“",
+    "description": "This is alternative text for the arrow icon next to the \"How LinkedIn Container Works\" link"
+  },
+  "no-trackers-subhead": {
+    "message": "Žedne pśeslědowaki LinkedIn namakane",
+    "description": ""
+  },
+  "no-trackers-p1": {
+    "message": "LinkedIn Container njejo namakał žedne pśeslědowaki LinkedIn na toś tom boku. Ale bok móžo hyšći druge typy pśeslědowakow wopśimjeś.",
+    "description": ""
+  },
+  "learn-more": {
+    "message": "Dalšne informacije",
+    "description": "This is a link that opens a page with more information about LinkedIn Container."
+  },
+  "how-fbc-works": {
+    "message": "Kak LinkedIn Container funkcioněrujo",
+    "description": "This is a button that opens the LinkedIn Container onboarding flow."
+  },
+  "trackers-detected-subhead": {
+    "message": "Smy was šćitali pśed LinkedIn.",
+    "description": "This is a subhead, and it means that the add on has protected the user by blocking LinkedIn trackers."
+  },
+  "trackers-detected-p1": {
+    "message": "Tłocaški LinkedIn, kótarež se na nakupowańskich, powěsćowych a drugich sedłach pokazuju, pśeslědowaki wopśimuju, kótarež LinkedIn k wěsći daju, źož sćo był we webje. Samo gaby wy toś te tłocaški nigda njewužywał, aby ze „Spódoba se“ markěrował abo źělił, mógu pśeslědowaki hyšći daty wó wašom pśeglědowanju zběraś. LinkedIn Container toś te pśeslědowaki blokěrujo.",
+    "description": ""
+  },
+  "trackers-detected-p2": {
+    "message": "LinkedIn Container toś te pśeslědowaki blokěrujo. Jolic pak na toś te tłocaški kliknjośo, móžo wam LinkedIn slědowaś.",
+    "description": ""
+  },
+  "trackers-detected-fence-alt": {
+    "message": "Płośikowy symbol LinkedIn Container ze šćitom.",
+    "description": "This is alternative text describing the container fence icon."
+  },
+  "sites-added-subhead": {
+    "message": "Sedła, kótarež su dowólone w LinkedIn Container",
+    "description": "This is a panel subhead."
+  },
+  "sites-included": {
+    "message": "ZAPŚIMJONE SEDŁA",
+    "description": "This is a header for the list of websites that are in the LinkedIn Container by default. Capitalized letters are preferred if that makes sense/is feasible for the language."
+  },
+  "no-sites-added": {
+    "message": "Žeden",
+    "description": "This message is shown beneath the 'SITES YOU’VE ALLOWED' list header when no sites have been added to the contaner."
+  },
+  "sites-allowed": {
+    "message": "SEDŁA, KÓTAREŽ SĆO DOWÓLIŁ",
+    "description": "This is the header for the list of sites the user has manually added into the LinkedIn Container. Capitalized letters are preferred if that makes sense/is feasible for the lanaguage."
+  },
+  "sites-added-p1": {
+    "message": "LinkedIn Container sedła LinkedIn do šćitanego wobceŕka zamka. Móžośo dalšne websedła do šćitanego wobceŕka zapśimjeś, ale to LinkedIn zmóžnja, wěcej wašogo webpśeglědowanja slědowaś."
+  },
+  "remove": {
+    "message": "Wótwónoźeś",
+    "description": ""
+  },
+  "button-allow-site": {
+    "message": "Sedło we LinkedIn Container dowóliś",
+    "description": "Button text that allows sites to be added to the LinkedIn Container"
+  },
+  "button-remove-site": {
+    "message": "Sedło z LinkedIn Container wótwónoźeś",
+    "description": "Button text that removes an already-added site from the LinkedIn Container to the default container"
+  },
+  "button-remove-site-tooltip": {
+    "message": "Dokulaž to jo sedło, kótarež LinkedIn słuša, njedajo se z LinkedIn Container wótwónoźeś.",
+    "description": "Tooltip that is displayed when hovering over the remove site button"
+  },
+  "remove-site-subhead": {
+    "message": "Sedło z LinkedIn Container wótwónoźeś?",
+    "description": ""
+  },
+  "remove-site-p1": {
+    "message": "Gaž toś to sedło z LinkedIn Container wótwónoźujośo, to groni, až funkcija „Z LinkedIn pśizjawiś“ wěcej njefunkcioněrujo a se slědujuce cookieje LinkedIn wulašuju.",
+    "description": ""
+  },
+  "remove-site-p2": {
+    "message": "Jolic cośo se zasej pla LinkedIn pśizjawiś, musyśo jen zasej LinkedIn Container pśidaś.",
+    "description": ""
+  },
+  "add-site-subhead": {
+    "message": "Slědowanje pśez LinkedIn na toś tom sedle dowóliś?",
+    "description": ""
+  },
+  "add-site-p1": {
+    "message": "To wam zmóžnja, se pla LinkedIn pśizjawiś, dowólujo pak LinkedIn slědowaś, což na toś tom sedle cyniśo.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-share": {
+    "message": "LinkedIn Container jo znjemóžnił toś ten tłocašk a LinkedIn zawoborał, wašomu woglědoju na toś tom boku slědowaś.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-login": {
+    "message": "LinkedIn Container jo zablokěrował pśeslědowaki LinkedIn. Jolic „Z LinkedIn na toś tom sedle pśizjawiś“ wužywaśo, móžo wam LinkedIn slědowaś.",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-p1": {
+    "message": "LinkedIn dowóliś, wam slědowaś?",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-p2": {
+    "message": "Jolic cośo funkciju „Z LinkedIn pśizjawiś“ wužywaś, móžo LinkedIn wašej aktiwiśe na toś tom sedle slědowaś. To móžo jomu pomagaś, wašo žywjenje online lěpjej póznaś.",
+    "description": ""
+  },
+  "inPageUI-tooltip-prompt-checkbox": {
+    "message": "Wěcej njepokazaś",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-share-passive": {
+    "message": "Jolic na toś ten tłocašk kliknjośo, móžo LinkedIn wašomu woglědoju na toś tom sedle slědowaś.",
+    "description": ""
+  },
+  "inPageUI-tooltip-button-email": {
+    "message": "Jolic swóju napšawdnu e-mailowu adresu how wužywaśo, móžo LinkedIn wam slědowaś. Klikniśo, aby wěcej zgónił.",
+    "description": ""
+  },
+  "inPageUI-tooltip-email-prompt-p1": {
+    "message": "LinkedIn dowóliś, wam slědowaś?",
+    "description": ""
+  },
+  "inPageUI-tooltip-email-prompt-p2": {
+    "message": "Toś to sedło móžo wašu e-mailowu adresu z LinkedIn źěliś, což LinkedIn zmóžnja, wam slědowaś. Wužywajśo słužbu ako Firefox Relay, aby swóju napšawdnu e-mailowu adresu schował.",
+    "description": ""
+  },
+  "btn-relay-dismiss": {
+    "message": "Zachyśiś",
+    "description": ""
+  },
+  "btn-relay-try": {
+    "message": "Firefox Relay wopytaś",
+    "description": ""
+  }
+}
