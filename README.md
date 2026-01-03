@@ -1,6 +1,12 @@
 # LinkedIn Container
 
-**Prevent LinkedIn from tracking your visits to other websites**
+[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+[![Firefox](https://img.shields.io/badge/Firefox-67%2B-orange.svg)](https://www.mozilla.org/firefox/)
+[![Based on Facebook Container](https://img.shields.io/badge/Based%20on-Facebook%20Container%20v2.3.12-blue.svg)](https://github.com/mozilla/contain-facebook)
+
+> **Prevent LinkedIn from tracking your visits to other websites**
+
+A Firefox extension that isolates LinkedIn in a dedicated container to prevent cross-site tracking and protect your privacy. Based on Mozilla's [Facebook Container](https://github.com/mozilla/contain-facebook) with comprehensive adaptations for LinkedIn.
 
 LinkedIn Container is an add-on you can install on Firefox to prevent LinkedIn from tracking your activity on other websites, so you can continue to use LinkedIn while protecting your privacy.
 
@@ -82,22 +88,38 @@ npm run build                    # Build for production
 - `npm run test-functional` - Functional tests only
 - `npm run coverage` - Generate coverage report
 
-## Attribution
+## Attribution & Acknowledgments
 
-This project is based on [Mozilla's Facebook Container](https://github.com/mozilla/contain-facebook) (v2.3.12), adapted for LinkedIn with comprehensive privacy protections.
+This project is a comprehensive fork and adaptation of [Mozilla's Facebook Container](https://github.com/mozilla/contain-facebook) (v2.3.12).
 
-### Key Features Inherited
-- Container isolation technology
-- Third-party tracker blocking
-- Domain management system
-- Multi-Account Containers integration
-- Comprehensive test suite
+### Original Project
+- **Source**: [Mozilla Facebook Container](https://github.com/mozilla/contain-facebook)
+- **Authors**: Mozilla Corporation
+- **License**: MPL-2.0 (maintained)
+- **Version**: Based on v2.3.12
 
-### LinkedIn-Specific Adaptations
-- 35+ LinkedIn domains covered (including CDNs, analytics, business products)
-- LinkedIn tracking parameter removal (li_source, trk, trkInfo, etc.)
-- Owned properties support (Lynda, SlideShare)
-- LinkedIn-themed UI and branding
+### Key Features Inherited from Facebook Container
+✅ Container isolation technology  
+✅ Third-party tracker blocking via webRequest API  
+✅ Domain management and allowlist system  
+✅ Multi-Account Containers (MAC) integration  
+✅ Service worker clearing  
+✅ Comprehensive test suite  
+
+### LinkedIn-Specific Enhancements
+🔹 **35+ LinkedIn domains** covered (core, CDN, tracking, business products, owned properties)  
+🔹 **LinkedIn tracking parameter removal**: li_source, trk, trkInfo, lipi, licu, original_referer  
+🔹 **Owned properties**: lynda.com, slideshare.net support  
+🔹 **LinkedIn branding**: Custom UI with LinkedIn blue (#0A66C2)  
+🔹 **74 locales**: Complete internationalization  
+
+### Why Fork Facebook Container?
+
+The Facebook Container provides a battle-tested, production-ready architecture for website isolation. Rather than building from scratch, this project leverages Mozilla's excellent work and adapts it specifically for LinkedIn's ecosystem, ensuring:
+- Proven reliability and security
+- Active maintenance patterns
+- Community-tested privacy protection mechanisms
+- Professional code quality and test coverage
 
 ## Privacy Features
 
@@ -108,17 +130,42 @@ This project is based on [Mozilla's Facebook Container](https://github.com/mozil
 ✅ **Service Worker Clearing** - Removes persistent tracking mechanisms  
 ✅ **Domain Management** - User control over which sites can access LinkedIn  
 
-## Links
+## Contributing
 
-- [License](./LICENSE) - MPL-2.0
-- [Contributing](./CONTRIBUTING.md)
-- [Code Of Conduct](./CODE_OF_CONDUCT.md)
-- [Planning Documentation](./Plan/) - Implementation strategy and analysis
+Contributions are welcome! Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
-## Support
+### Development Workflow
+1. Fork the repository
+2. Create a feature branch: `git checkout -b feature/amazing-feature`
+3. Make your changes and test thoroughly
+4. Run tests: `npm test`
+5. Commit: `git commit -m 'Add amazing feature'`
+6. Push: `git push origin feature/amazing-feature`
+7. Open a Pull Request
 
-Report issues on GitHub: https://github.com/lanec/contain-linkedin/issues
+## Support & Issues
+
+- **Bug Reports**: [GitHub Issues](https://github.com/lanec/contain-linked-in-v2/issues)
+- **Feature Requests**: [GitHub Issues](https://github.com/lanec/contain-linked-in-v2/issues)
+- **Questions**: Check existing issues or open a new one
+
+## Changelog
+
+See [CHANGELOG.md](./CHANGELOG.md) for version history and release notes.
+
+## Roadmap
+
+- [ ] Publish to Firefox Add-ons (AMO)
+- [ ] Custom LinkedIn-themed icons
+- [ ] Enhanced content script selectors for LinkedIn UI elements
+- [ ] Performance optimizations
+- [ ] Additional domain discovery and refinement
 
 ---
 
-**This is an unofficial extension and is not affiliated with LinkedIn Corporation.**
+## Legal
+
+**Disclaimer**: This is an unofficial, open-source extension and is not affiliated with, endorsed by, or connected to LinkedIn Corporation or Microsoft Corporation.
+
+**License**: MPL-2.0 (same as original Facebook Container)  
+**Trademark Notice**: LinkedIn is a registered trademark of LinkedIn Corporation.

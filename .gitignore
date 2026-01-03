@@ -1,4 +1,30 @@
+# Dependencies
+node_modules/
+package-lock.json
 
+# Build artifacts
+web-ext-artifacts/
+*.zip
+*.xpi
 
-#Ignore windsurf AI rules
+# Development
+.DS_Store
+.env
+.vscode/
+.idea/
+
+# Testing
+coverage/
+.nyc_output/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Internal planning (not for public repo)
+Plan/
+
+# Windsurf AI rules
 .windsurfrules
+.windsurf/
