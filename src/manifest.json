@@ -1,7 +1,7 @@
 {
     "manifest_version": 2,
     "name": "LinkedIn Container",
-    "version": "1.0.0",
+    "version": "1.0.1",
 
     "incognito": "not_allowed",
 
@@ -14,20 +14,19 @@
         "96": "/img/icon.svg"
     },
 
-    "applications": {
+    "browser_specific_settings": {
       "gecko": {
         "id": "contain-linkedin@lanechr.com",
-        "strict_min_version": "67.0"
+        "strict_min_version": "67.0",
+        "data_collection_permissions": {
+          "privacy_policy_url": "https://github.com/lanec/contain-linked-in-v2/blob/master/README.md#privacy-features"
+        }
       }
     },
 
     "developer": {
       "name": "Lane Christiansen",
       "url": "https://github.com/lanec/contain-linked-in-v2"
-    },
-
-    "data_collection_permissions": {
-      "privacy_policy_url": "https://github.com/lanec/contain-linked-in-v2/blob/master/README.md#privacy-features"
     },
 
     "homepage_url": "https://github.com/lanec/contain-linkedin",
